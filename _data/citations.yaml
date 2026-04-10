@@ -1,0 +1,1140 @@
+- authors:
+  - Jiawei Chen
+  - Simin Huang
+  - Jiawei Du
+  - Shuaihang Chen
+  - Yu Tian
+  - Mingjie Wei
+  - Chao Yu
+  - Zhaoxia Yin
+  date: '2026-01-01'
+  image: images/tex3d.png
+  link: https://arxiv.org/abs/2604.01618
+  title: 'Tex3D: Objects as Attack Surfaces via Adversarial 3D Textures for Vision-Language-Action Models'
+  mark: acmmm2026
+  publisher: Proceedings of the ACM Multimedia Conference (ACM MM 2026)
+- authors:
+  - Zhennan Jiang
+  - Shangqing Zhou
+  - Yutong Jiang
+  - Zefang Huang
+  - Mingjie Wei
+  - Yuhui Chen
+  - Tianxing Zhou
+  - Zhen Guo
+  - Hao Lin
+  - Quanlu Zhang
+  - Yu Wang
+  - Haoran Li
+  - Chao Yu
+  - Dongbin Zhao
+  date: '2026-01-01'
+  image: images/wovr.png
+  link: https://arxiv.org/abs/2602.13977
+  title: 'WoVR: World Models as Reliable Simulators for Post-Training VLA Policies with RL'
+  mark: arxiv2026
+  publisher: arXiv preprint arXiv:2602.13977
+- authors:
+  - Liangzhi Shi
+  - Sheng Chen
+  - Feng Gao
+  - Yuhui Chen
+  - Kang Chen
+  - Tonghe Zhang
+  - Hongzhi Zang
+  - Weinan Zhang
+  - Chao Yu
+  - Yu Wang
+  date: '2026-01-01'
+  image: images/beyondlim.png
+  link: https://arxiv.org/abs/2602.12628
+  title: 'Beyond Imitation: Reinforcement Learning-Based Sim-Real Co-Training for VLA Models'
+  mark: arxiv2026
+  publisher: arXiv preprint arXiv:2602.12628
+- authors:
+  - Hongzhi Zang
+  - Shu'ang Yu
+  - Hao Lin
+  - Tianxing Zhou
+  - Zefang Huang
+  - Zhen Guo
+  - Xin Xu
+  - Jiakai Zhou
+  - Yuze Sheng
+  - Shizhe Zhang
+  - Feng Gao
+  - Wenhao Tang
+  - Yufeng Yue
+  - Quanlu Zhang
+  - Xinlei Chen
+  - Chao Yu
+  - Yu Wang
+  date: '2026-01-01'
+  image: images/rlinfuser.png
+  link: https://arxiv.org/abs/2602.07837
+  title: 'RLinf-USER: A Unified and Extensible System for Real-World Online Policy Learning in Embodied AI'
+  mark: arxiv2026
+  publisher: arXiv preprint arXiv:2602.07837
+- authors:
+  - Zelai Xu
+  - Zhexuan Xu
+  - Ruize Zhang
+  - Chunyang Zhu
+  - Shi Yu
+  - Weilin Liu
+  - Quanlu Zhang
+  - Wenbo Ding
+  - Chao Yu
+  - Yu Wang
+  date: '2026-01-01'
+  image: images/wideseek.png
+  link: https://arxiv.org/abs/2602.04634
+  title: 'WideSeek-R1: Exploring Width Scaling for Broad Information Seeking via Multi-Agent Reinforcement Learning'
+  mark: preprint2026
+  publisher: Preprint (2026)
+- authors:
+  - Yinzhou Tang
+  - Yu Shang
+  - Yinuo Chen
+  - Bingwen Wei
+  - Xin Zhang
+  - Shu'ang Yu
+  - Liangzhi Shi
+  - Chao Yu
+  - Chen Gao
+  - Wei Wu
+  - Yong Li
+  date: '2025-01-01'
+  image: images/roboscape.png
+  link: https://arxiv.org/abs/2512.03556
+  title: 'RoboScape-R: Unified Reward-Observation World Models for Generalizable Robotics Training via RL'
+  mark: preprint2025
+  publisher: Preprint (2025)
+- authors:
+  - Jiawei Chen
+  - Yang Yang
+  - Chao Yu
+  - Yu Tian
+  - Zhi Cao
+  - Xue Yang
+  - Linghao Li
+  - Hang Su
+  - Zhaoxia Yin
+  date: '2025-01-01'
+  image: images/redteam.png
+  link: https://arxiv.org/abs/2512.00412
+  title: Red Teaming Large Reasoning Models
+  mark: preprint2025
+  publisher: Preprint (2025)
+- authors:
+  - Kang Chen
+  - Zhihao Liu
+  - Tonghe Zhang
+  - Zhen Guo
+  - Si Xu
+  - Hao Lin
+  - Hongzhi Zang
+  - Xiang Li
+  - Bingwen Wei
+  - Jiakai Zhou
+  - Quanlu Zhang
+  - Zhaofei Yu
+  - Guoliang Fan
+  - Tiejun Huang
+  - Yu Wang
+  - Chao Yu
+  date: '2025-01-01'
+  image: images/pirl.png
+  link: https://arxiv.org/abs/2510.25889
+  title: 'πRL: Online RL Fine-tuning for Flow-based Vision-Language-Action Models'
+  mark: preprint2025
+  publisher: Preprint (2025)
+- authors:
+  - Yutao Ouyang
+  - Jinhan Li
+  - Yunfei Li
+  - Zhongyu Li
+  - Chao Yu
+  - Koushil Sreenath
+  - Yi Wu
+  date: '2025-01-01'
+  image: images/longhorizon.png
+  link: https://arxiv.org/abs/2404.05291
+  title: Long-horizon Locomotion and Manipulation on a Quadrupedal Robot with Large Language Models
+  mark: iros2025
+  publisher: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2025)
+- authors:
+  - Huining Yuan
+  - Zelai Xu
+  - Zheyue Tan
+  - Xiangmin Yi
+  - Mo Guang
+  - Kaiwen Long
+  - Haojia Hui
+  - Boxun Li
+  - Xinlei Chen
+  - Bo Zhao
+  - Xiao-Ping Zhang
+  - Chao Yu
+  - Yu Wang
+  date: '2026-01-01'
+  image: images/marshal.png
+  link: https://arxiv.org/abs/2510.15414
+  title: 'MARSHAL: Incentivizing Multi-Agent Reasoning via Self-Play with Strategic LLMs'
+  mark: iclr2026
+  publisher: The Fourteenth International Conference on Learning Representations (ICLR 2026)
+- authors:
+  - Hongzhi Zang
+  - Mingjie Wei
+  - Si Xu
+  - Yongji Wu
+  - Zhen Guo
+  - Yuanqing Wang
+  - Hao Lin
+  - Liangzhi Shi
+  - Yuqing Xie
+  - Zhexuan Xu
+  - Zhihao Liu
+  - Kang Chen
+  - Wenhao Tang
+  - Quanlu Zhang
+  - Weinan Zhang
+  - Chao Yu
+  - Yu Wang
+  date: '2025-01-01'
+  image: images/rlinfvla.png
+  link: https://arxiv.org/abs/2510.06710
+  title: 'RLinf-VLA: A Unified and Efficient Framework for VLA+RL Training'
+  mark: arxiv2025
+  publisher: arXiv preprint arXiv:2510.06710
+- authors:
+  - Yixian Zhang
+  - Shu'ang Yu
+  - Tonghe Zhang
+  - Mo Guang
+  - Haojia Hui
+  - Kaiwen Long
+  - Yu Wang
+  - Chao Yu
+  - Wenbo Ding
+  date: '2026-01-01'
+  image: images/sacflow.png
+  link: https://arxiv.org/abs/2509.25756
+  title: 'SAC Flow: Sample-Efficient Reinforcement Learning of Flow-Based Policies via Velocity-Reparameterized Sequential Modeling'
+  mark: iclr2026
+  publisher: ICLR 2026
+- authors:
+  - Xiaoyang Cao
+  - Zelai Xu
+  - Mo Guang
+  - Kaiwen Long
+  - Michiel A. Bakker
+  - Yu Wang
+  - Chao Yu
+  date: '2026-01-01'
+  image: images/repo.png
+  link: https://arxiv.org/abs/2509.24159
+  title: 'RE-PO: Robust Enhanced Policy Optimization as a General Framework for LLM Alignment'
+  mark: iclr2026
+  publisher: The Fourteenth International Conference on Learning Representations (ICLR 2026)
+- authors:
+  - Shilong Ji
+  - Yinuo Chen
+  - Chuqi Wang
+  - Jiayu Chen
+  - Ruize Zhang
+  - Feng Gao
+  - Wenhao Tang
+  - Shu'ang Yu
+  - Sirui Xiang
+  - Xinlei Chen
+  - Chao Yu
+  - Yu Wang
+  date: '2025-01-01'
+  image: images/jugglerl.png
+  link: https://arxiv.org/abs/2509.24892
+  title: 'JuggleRL: Mastering Ball Juggling with a Quadrotor via Deep Reinforcement Learning'
+  mark: arxiv2025
+  publisher: arXiv preprint arXiv:2509.24892
+- authors:
+  - Zhennan Jiang
+  - Kai Liu
+  - Yuxin Qin
+  - Shuai Tian
+  - Yupeng Zheng
+  - Mingcai Zhou
+  - Chao Yu
+  - Haoran Li
+  - Dongbin Zhao
+  date: '2025-01-01'
+  image: images/world4rl.png
+  link: https://arxiv.org/abs/2509.19080
+  title: 'World4RL: Diffusion World Models for Policy Refinement with Reinforcement Learning for Robotic Manipulation'
+  mark: arxiv2025
+  publisher: arXiv preprint arXiv:2509.19080
+- authors:
+  - Chao Yu
+  - Yuanqing Wang
+  - Zhen Guo
+  - Hao Lin
+  - Si Xu
+  - Hongzhi Zang
+  - Quanlu Zhang
+  - Yongji Wu
+  - Chunyang Zhu
+  - Junhao Hu
+  - Zixiao Huang
+  - Mingjie Wei
+  - Yuqing Xie
+  - Ke Yang
+  - Bo Dai
+  - Zhexuan Xu
+  - Jiakun Du
+  - Xiangyuan Wang
+  - Xu Fu
+  - Letong Shi
+  - Zhihao Liu
+  - Kang Chen
+  - Weilin Liu
+  - Gang Liu
+  - Boxun Li
+  - Jianlei Yang
+  - Zhi Yang
+  - Guohao Dai
+  - Yu Wang
+  date: '2025-01-01'
+  image: images/rlinf.png
+  link: https://arxiv.org/abs/2509.15965
+  title: 'RLinf: Flexible and Efficient Large-scale Reinforcement Learning via Macro-to-Micro Flow Transformation'
+  mark: arxiv2025
+  publisher: arXiv preprint arXiv:2509.15965 (2025)
+- authors:
+  - Shu-Ang Yu
+  - Feng Gao
+  - Yi Wu
+  - Chao Yu
+  - Yu Wang
+  date: '2025-01-01'
+  image: images/d3p.png
+  link: https://arxiv.org/abs/2508.06804
+  title: 'D3P: Dynamic Denoising Diffusion Policy via Reinforcement Learning'
+  mark: arxiv2025
+  publisher: arXiv preprint arXiv:2508.06804 (2025)
+- authors:
+  - Songsheng Wang
+  - Rucheng Yu
+  - Zhihang Yuan
+  - Chao Yu
+  - Feng Gao
+  - Yu Wang
+  - Derek F. Wong
+  date: '2025-01-01'
+  image: images/specvla.png
+  link: https://arxiv.org/abs/2507.22424
+  title: 'Spec-VLA: Speculative Decoding for Vision-Language-Action Models with Relaxed Acceptance'
+  mark: emnlp2025
+  publisher: EMNLP 2025 Main Conference
+- authors:
+  - Jiayu Chen
+  - Chao Yu
+  - Guosheng Li
+  - Wenhao Tang
+  - Shilong Ji
+  - Xinyi Yang
+  - Botian Xu
+  - Huazhong Yang
+  - Yu Wang
+  date: '2025-01-01'
+  image: images/multiuav.png
+  link: https://arxiv.org/abs/2409.15866
+  title: Online Planning for Multi-UAV Pursuit-Evasion in Unknown Environments Using Deep Reinforcement Learning
+  mark: ral2025
+  publisher: IEEE Robotics and Automation Letters (2025)
+- authors:
+  - Jiawei Chen
+  - Zhengwei Fang
+  - Xiao Yang
+  - Chao Yu
+  - Zhaoxia Yin
+  - Hang Su
+  date: '2025-01-01'
+  image: images/risks.png
+  link: https://arxiv.org/abs/2506.12382
+  title: Exploring the Secondary Risks of Large Language Models
+  mark: arxiv2025
+  publisher: arXiv preprint arXiv:2506.12382
+- authors:
+  - Zelai Xu
+  - Zhexuan Xu
+  - Xiangmin Yi
+  - Huining Yuan
+  - Xinlei Chen
+  - Yongji Wu
+  - Chao Yu
+  - Yu Wang
+  date: '2026-01-01'
+  image: images/vsbench.png
+  link: https://arxiv.org/abs/2506.02387
+  title: 'VS-Bench: Evaluating VLMs for Strategic Reasoning and Decision-Making in Multi-Agent Environments'
+  mark: iclr2026
+  publisher: ICLR 2026 Oral
+- authors:
+  - Jijia Liu
+  - Feng Gao
+  - Bingwen Wei
+  - Xinlei Chen
+  - Qingmin Liao
+  - Yi Wu
+  - Chao Yu
+  - Yu Wang
+  date: '2025-01-01'
+  image: images/rlstudy.png
+  link: https://arxiv.org/abs/2505.19789
+  title: What Can RL Bring to VLA Generalization? An Empirical Study
+  mark: neurips2025
+  publisher: NeurIPS 2025
+- authors:
+  - Tonghe Zhang
+  - Chao Yu
+  - Shenzhi Su
+  - Yu Wang
+  date: '2025-01-01'
+  image: images/reinflow.png
+  link: https://papers.nips.cc/
+  title: 'ReinFlow: Fine-tuning Flow Matching Policy with Online Reinforcement Learning'
+  mark: neurips2025
+  publisher: NeurIPS 2025
+- authors:
+  - Zhi Su
+  - Yuman Gao
+  - Emily Lukas
+  - Yunfei Li
+  - Jiaze Cai
+  - Faris Tulbah
+  - Fei Gao
+  - Chao Yu
+  - Zhongyu Li
+  - Yi Wu
+  - Koushil Sreenath
+  date: '2025-01-01'
+  image: images/soccer.png
+  link: https://arxiv.org/abs/2505.13834
+  title: Toward Real-World Cooperative and Competitive Soccer with Quadrupedal Robot Teams
+  mark: corl2025
+  publisher: Conference on Robot Learning (CoRL 2025)
+- authors:
+  - Ningyuan Yang
+  - Jiaxuan Gao
+  - Feng Gao
+  - Yi Wu
+  - Chao Yu
+  date: '2025-01-01'
+  image: images/diffusion.png
+  link: https://arxiv.org/abs/2505.10482
+  title: Fine-tuning Diffusion Policies with Backpropagation Through Diffusion Timesteps
+  mark: preprint2025
+  publisher: Preprint (2025)
+- authors:
+  - Ruize Zhang
+  - Sirui Xiang
+  - Zelai Xu
+  - Feng Gao
+  - Shilong Ji
+  - Wenhao Tang
+  - Wenbo Ding
+  - Chao Yu
+  - Yu Wang
+  date: '2025-01-01'
+  image: images/coselfplay.png
+  link: https://arxiv.org/abs/2505.04317
+  title: Mastering Multi-Drone Volleyball through Hierarchical Co-Self-Play Reinforcement Learning
+  mark: corl2025
+  publisher: 9th Conference on Robot Learning (CoRL 2025), Seoul, Korea
+- authors:
+  - Zongyuan Chen
+  - Yan Xia
+  - Jiayuan Liu
+  - Jijia Liu
+  - Wenhao Tang
+  - Jiayu Chen
+  - Feng Gao
+  - Longfei Ma
+  - Hongen Liao
+  - Yu Wang
+  - Chao Yu
+  - Boyu Zhang
+  - Fei Xing
+  date: '2025-01-01'
+  image: images/hann.png
+  link: https://arxiv.org/abs/2504.13582
+  title: Hysteresis-Aware Neural Network Modeling and Whole-Body Reinforcement Learning Control of Soft Robots
+  mark: preprint2025
+  publisher: Preprint (2025)
+- authors:
+  - Le Qiu
+  - Zelai Xu
+  - Qixin Tan
+  - Wenhao Tang
+  - Chao Yu
+  - Yu Wang
+  date: '2026-01-01'
+  image: images/aed.png
+  link: https://arxiv.org/abs/2503.20804
+  title: 'AED: Automatic Discovery of Effective and Diverse Vulnerabilities for Autonomous Driving Policy with Large Language Models'
+  mark: aaai2026
+  publisher: The AAAI 2026 Bridge Program on Advancing Large Language Models and Multi-Agent Systems
+- authors:
+  - Chuqi Wang
+  - Chao Yu
+  - Xin Xu
+  - Yinuo Chen
+  - Yuman Gao
+  - Xinyi Yang
+  - Wenhao Tang
+  - Shu'ang Yu
+  - Feng Gao
+  - Zhuozhu Jian
+  - Xinlei Chen
+  - Fei Gao
+  - Boyu Zhou
+  - Yu Wang
+  - Fellow
+  - IEEE
+  date: '2025-01-01'
+  image: images/multirobot.png
+  link: https://arxiv.org/abs/2503.07278
+  title: 'Multi-Robot System for Cooperative Exploration in Unknown Environments: A Survey'
+  mark: survey2025
+  publisher: Survey Paper (2025)
+- authors:
+  - Xinyi Yang
+  - Liang Zeng
+  - Heng Dong
+  - Chao Yu
+  - Xiaoran Wu
+  - Huazhong Yang
+  - Yu Wang
+  - Milind Tambe
+  - Tonghan Wang
+  date: '2026-01-01'
+  image: images/policy2lang.png
+  link: https://arxiv.org/abs/2502.12530
+  title: 'Translate Policy to Language: Flow Matching Generated Rewards for LLM Explanations'
+  mark: iclr2026
+  publisher: The Fourteenth International Conference on Learning Representations (ICLR 2026)
+- authors:
+  - Zelai Xu
+  - Wanjun Gu
+  - Chao Yu
+  - Yi Wu
+  - Yu Wang
+  date: '2025-01-01'
+  image: images/strategic.png
+  link: https://arxiv.org/abs/2502.04686
+  title: Learning Strategic Language Agents in the Werewolf Game with Iterative Latent Space Policy Optimization
+  mark: icml2025
+  publisher: Proceedings of the 42nd International Conference on Machine Learning (ICML 2025)
+- authors:
+  - Zelai Xu
+  - Ruize Zhang
+  - Chao Yu
+  - Huining Yuan
+  - Xiangmin Yi
+  - Shilong Ji
+  - Chuqi Wang
+  - Wenhao Tang
+  - Feng Gao
+  - Wenbo Ding
+  - Xinlei Chen
+  - Yu Wang
+  date: '2025-01-01'
+  image: images/volleybots.png
+  link: https://arxiv.org/abs/2502.01932
+  title: 'VolleyBots: A Testbed for Multi-Drone Volleyball Game Combining Motion Control and Strategic Play'
+  mark: neurips2025
+  publisher: The Thirty-ninth Conference on Neural Information Processing Systems (NeurIPS 2025), Track on Datasets and Benchmarks
+- authors:
+  - Jijia Liu
+  - Feng Gao
+  - Qingmin Liao
+  - Chao Yu
+  - Yu Wang
+  date: '2025-01-01'
+  image: images/qnetwork.png
+  link: https://arxiv.org/abs/2502.00288
+  title: Learning from Suboptimal Data in Continuous Control via Auto-Regressive Soft Q-Network
+  mark: icml2025
+  publisher: Proceedings of the 42nd International Conference on Machine Learning (ICML 2025)
+- authors:
+  - Zelai Xu
+  - Chao Yu
+  - Yancheng Liang
+  - Yi Wu
+  - Yu Wang
+  date: '2025-01-01'
+  image: images/nasheqal.png
+  link: http://www.jmlr.org/papers/v26/24-1503.html
+  title: Learning Global Nash Equilibrium in Team Competitive Games with Generalized Fictitious Cross-Play
+  mark: journal2025
+  publisher: Journal of Machine Learning Research, 26 (2025), 1–30
+- authors:
+  - Shuzhen Li
+  - Yuxin Chen
+  - Xuesong Chen
+  - Rong Gao
+  - Yina Zhang
+  - Chao Yu
+  - Yu Li
+  - Ziyi Ye
+  - Wei Huang
+  - Hui Yi
+  - Jiaxuan Gao
+  - Wenbo Ding
+  - Yu Wang
+  date: '2024-01-01'
+  image: images/sleepnet.png
+  link: https://dl.acm.org/doi/10.1145/3699743
+  title: 'SleepNetZero: Zero-Burden Zero-Shot Reliable Sleep Staging with Neural Networks Based on Ballistocardiograms'
+  mark: pacmimwut2024
+  publisher: Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (PACM IMWUT 2024)
+- authors:
+  - Feng Gao
+  - Chao Yu
+  - Yu Wang
+  - Yi Wu
+  date: '2025-01-01'
+  image: images/neuralcontrol.png
+  link: https://arxiv.org/abs/2411.13079
+  title: 'Neural Internal Model Control: Learning a Robust Control Policy via Predictive Error Feedback'
+  mark: ral2025
+  publisher: IEEE Robotics and Automation Letters (RA-L 2025)
+- authors:
+  - Yuqing Xie
+  - Chao Yu
+  - Hongzhi Zang
+  - Feng Gao
+  - Wenhao Tang
+  - Jingyi Huang
+  - Jiayu Chen
+  - Botian Xu
+  - Yi Wu
+  - Yu Wang
+  date: '2025-01-01'
+  image: images/multiuav2.png
+  link: https://arxiv.org/abs/2410.18495
+  title: Multi-UAV Behavior-based Formation with Static and Dynamic Obstacles Avoidance via Reinforcement Learning
+  mark: iros2025
+  publisher: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2025)
+- authors:
+  - Weizheng Wang
+  - Chao Yu
+  - Yu Wang
+  - Byung-Cheol Min
+  date: '2025-01-01'
+  image: images/humanrobot.png
+  link: https://arxiv.org/abs/2409.13573
+  title: Human-Robot Cooperative Distribution Coupling for Hamiltonian-Constrained Social Navigation
+  mark: icra2025
+  publisher: IEEE International Conference on Robotics and Automation (ICRA 2025)
+- authors:
+  - Yuzi Yan
+  - Xingzhou Lou
+  - Jialian Li
+  - Yiping Zhang
+  - Jian Xie
+  - Chao Yu
+  - Yu Wang
+  - Dong Yan
+  - Yuan Shen
+  date: '2024-01-01'
+  image: images/llmrlhf.png
+  link: https://arxiv.org/abs/2409.15360
+  title: Reward-Robust RLHF in LLMs
+  mark: preprint2024
+  publisher: Preprint (2024)
+- authors:
+  - Ruize Zhang
+  - Zelai Xu
+  - Chengdong Ma
+  - Chao Yu
+  - Wei-Wei Tu
+  - Wenhao Tang
+  - Shiyu Huang
+  - Deheng Ye
+  - Wenbo Ding
+  - Yaodong Yang
+  - Yu Wang
+  date: '2024-01-01'
+  image: images/selfplaysurvey.png
+  link: https://arxiv.org/abs/2408.01072
+  title: A Survey on Self-Play Methods in Reinforcement Learning
+  mark: preprint2024
+  publisher: Preprint (2024)
+- authors:
+  - Shu-Ang Yu
+  - Chao Yu
+  - Feng Gao
+  - Yi Wu
+  - Yu Wang
+  date: '2025-01-01'
+  image: images/flightbench.png
+  link: https://arxiv.org/abs/2406.05687
+  title: 'FlightBench: A Comprehensive Benchmark of Spatial Planning Methods for Quadrotors'
+  mark: ral2025
+  publisher: IEEE Robotics and Automation Letters (RA-L 2025)
+- authors:
+  - Jinwei Zeng
+  - Chao Yu
+  - Xinyi Yang
+  - Wenxuan Ao
+  - Jian Yuan
+  - Yong Li
+  - Yu Wang
+  - Huazhong Yang
+  date: '2024-01-01'
+  image: images/citylight.png
+  link: https://arxiv.org/abs/2406.02126
+  title: 'CityLight: A Universal Model Towards Real-world City-scale Traffic Signal Control Coordination'
+  mark: preprint2024
+  publisher: Preprint (2024)
+- authors:
+  - Shusheng Xu
+  - Huaijie Wang
+  - Yutao Ouyang
+  - Jiaxuan Gao
+  - Zhiyu Mei
+  - Chao Yu
+  - Yi Wu
+  date: '2024-01-01'
+  image: images/lagoon.png
+  link: https://arxiv.org/abs/2306.10518
+  title: 'LAGOON: Language-Guided Motion Control'
+  mark: icra2024
+  publisher: IEEE International Conference on Robotics and Automation (ICRA 2024)
+- authors:
+  - Shusheng Xu
+  - Wei Fu
+  - Jiaxuan Gao
+  - Wenjie Ye
+  - Weilin Liu
+  - Zhiyu Mei
+  - Guangju Wang
+  - Chao Yu
+  - Yi Wu
+  date: '2024-01-01'
+  image: images/dpostudy.png
+  link: https://arxiv.org/abs/2404.10719
+  title: Is DPO Superior to PPO for LLM Alignment? A Comprehensive Study
+  mark: icml2024
+  publisher: Proceedings of the 41st International Conference on Machine Learning (ICML 2024)
+- authors:
+  - Jiayu Chen
+  - Zelai Xu
+  - Yunfei Li
+  - Chao Yu
+  - Jiaming Song
+  - Huazhong Yang
+  - Fei Fang
+  - Yu Wang
+  - Yi Wu
+  date: '2024-01-01'
+  image: images/zerosum.png
+  link: https://ojs.aaai.org/index.php/AAAI/article/view/29011
+  title: Accelerate Multi-Agent Reinforcement Learning in Zero-Sum Games with Subgame Curriculum Learning
+  mark: aaai2024
+  publisher: Proceedings of the AAAI Conference on Artificial Intelligence (AAAI 2024)
+- authors:
+  - Botian Xu
+  - Feng Gao
+  - Chao Yu
+  - Ruize Zhang
+  - Yi Wu
+  - Yu Wang
+  date: '2024-01-01'
+  image: images/omnidrones.png
+  link: https://arxiv.org/abs/2309.12825
+  title: 'OmniDrones: An Efficient and Flexible Platform for Reinforcement Learning in Drone Control'
+  mark: ral2024
+  publisher: 'IEEE Robotics and Automation Letters, 9(3): 2838–2844 (2024)'
+- authors:
+  - Jiaxuan Gao
+  - Yule Wen
+  - Chao Yu
+  - Yi Wu
+  date: '2024-01-01'
+  image: images/marl.png
+  link: https://openreview.net/pdf?id=PvQj49LzJW
+  title: Sharing Minds during MARL Training for Enhanced Cooperative LLM Agents
+  mark: neurips2024
+  publisher: The Thirty-eighth Conference on Neural Information Processing Systems (NeurIPS 2024)
+- authors:
+  - Chao Yu
+  - Hong Lu
+  - Jiaxuan Gao
+  - Qixin Tan
+  - Xinting Yang
+  - Yu Wang
+  - Yi Wu
+  - Eugene Vinitsky
+  date: '2025-01-01'
+  image: images/fewshotcontext.png
+  link: https://openreview.net/forum?id=w9tS6NRmxX
+  title: Few-shot In-context Preference Learning using Large Language Models
+  mark: iclr2025
+  publisher: The Thirteenth International Conference on Learning Representations (ICLR 2025)
+- authors:
+  - Jijia Liu
+  - Chao Yu
+  - Jiaxuan Gao
+  - Yuqing Xie
+  - Qingmin Liao
+  - Yi Wu
+  - Yu Wang
+  date: '2024-01-01'
+  image: images/llmpowered.png
+  link: https://arxiv.org/abs/2312.15224
+  title: LLM-Powered Hierarchical Language Agent for Real-time Human-AI Coordination
+  mark: aamas2024
+  publisher: Proc. of the 23rd International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2024)
+- authors:
+  - Xinyi Yang
+  - Xinting Yang
+  - Chao Yu
+  - Jiayu Chen
+  - Wenbo Ding
+  - Huazhong Yang
+  - Yu Wang
+  date: '2024-01-01'
+  image: images/masp.png
+  link: https://arxiv.org/abs/2312.02522
+  title: 'MASP: Scalable Graph-based Planning towards Multi-Agent Navigation'
+  mark: ral2024
+  publisher: IEEE Robotics and Automation Letters (RA-L 2024)
+- authors:
+  - Xinyi Yang
+  - Yuxiang Yang
+  - Chao Yu
+  - Jiayu Chen
+  - Jingchen Yu
+  - Haibing Ren
+  - Huazhong Yang
+  - Yu Wang
+  date: '2023-01-01'
+  image: images/activeneural.png
+  link: https://arxiv.org/abs/2311.00252
+  title: Active Neural Topological Mapping for Multi-Agent Exploration
+  mark: preprint2023
+  publisher: Preprint (2023)
+- authors:
+  - Zelai Xu
+  - Chao Yu
+  - Fei Fang
+  - Yu Wang
+  - Yi Wu
+  date: '2024-01-01'
+  image: images/werewolf.png
+  link: https://arxiv.org/abs/2310.18940
+  title: Language Agents with Reinforcement Learning for Strategic Play in the Werewolf Game
+  mark: icml2024
+  publisher: Proceedings of the 41st International Conference on Machine Learning (ICML 2024)
+- authors:
+  - Zelai Xu
+  - Yancheng Liang
+  - Chao Yu
+  - Yu Wang
+  - Yi Wu
+  date: '2023-01-01'
+  image: images/fictitious.png
+  link: https://arxiv.org/abs/2310.03354
+  title: 'Fictitious Cross-Play: Learning Global Nash Equilibrium in Mixed Cooperative-Competitive Games'
+  mark: aamas2023
+  publisher: Proceedings of the 22nd International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2023)
+- authors:
+  - Weihua Du
+  - Jinglun Zhao
+  - Chao Yu
+  - Xingcheng Yao
+  - Zimeng Song
+  - Siyang Wu
+  - Ruifeng Luo
+  - Zhiyuan Liu
+  - Xianzhong Zhao
+  - Yi Wu
+  date: '2023-01-01'
+  image: images/truss.png
+  link: https://arxiv.org/abs/2306.15182
+  title: Automatic Truss Design with Reinforcement Learning
+  mark: ijcai2023
+  publisher: IJCAI 2023
+- authors:
+  - Chao Yu
+  - Jiaxuan Gao
+  - Weilin Liu
+  - Botian Xu
+  - Hao Tang
+  - Jiaqi Yang
+  - Yu Wang
+  - Yi Wu
+  date: '2023-01-01'
+  image: images/learningzeroshot.png
+  link: https://arxiv.org/abs/2302.01605
+  title: Learning Zero-Shot Cooperation with Humans, Assuming Humans Are Biased
+  mark: iclr2023
+  publisher: The Eleventh International Conference on Learning Representations (ICLR 2023)
+- authors:
+  - Chao Yu
+  - Xinyi Yang
+  - Jiaxuan Gao
+  - Jiayu Chen
+  - Yunfei Li
+  - Jijia Liu
+  - Yunfei Xiang
+  - Ruixin Huang
+  - Huazhong Yang
+  - Yi Wu
+  - Yu Wang
+  date: '2023-01-01'
+  image: images/realtime.png
+  link: https://arxiv.org/abs/2301.03398
+  title: Asynchronous Multi-Agent Reinforcement Learning for Efficient Real-Time Multi-Robot Cooperative Exploration
+  mark: aamas2023
+  publisher: Proceedings of the 22nd International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2023)
+- authors:
+  - Xinyi Yang
+  - Shiyu Huang
+  - Yiwen Sun
+  - Yuxiang Yang
+  - Chao Yu
+  - Wei-Wei Tu
+  - Huazhong Yang
+  - Yu Wang
+  date: '2023-01-01'
+  image: images/graphenhan.png
+  link: https://arxiv.org/abs/2302.04094
+  title: Learning Graph-Enhanced Commander-Executor for Multi-Agent Navigation
+  mark: aamas2023
+  publisher: Proceedings of the 22nd International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2023)
+- authors:
+  - Chao Yu
+  - Akash Velu
+  - Eugene Vinitsky
+  - Jiaxuan Gao
+  - Yu Wang
+  - Alexandre Bayen
+  - Yi Wu
+  date: '2022-01-01'
+  image: images/ppogames.png
+  link: https://proceedings.neurips.cc/paper_files/paper/2022/hash/9c1535a02f0ce079433344e14d910597-Abstract-Datasets_and_Benchmarks.html
+  title: The Surprising Effectiveness of PPO in Cooperative Multi-Agent Games
+  mark: neurips2022
+  publisher: The Thirty-sixth Conference on Neural Information Processing Systems (NeurIPS 2022), Track on Datasets and Benchmarks
+- authors:
+  - Xuan Du
+  - Xinyi Yang
+  - Chao Yu
+  - Jiaxuan Gao
+  - Qingmin Liao
+  - Huazhong Yang
+  - Yu Wang
+  date: '2022-01-01'
+  image: images/photo3d.png
+  link: http://nicsefc.ee.tsinghua.edu.cn/nics_file/pdf/480b3e15-730b-45a9-ae1e-3b447cd28e3b.pdf
+  title: A Benchmark of Planning-based Exploration Methods in Photo-Realistic 3D Simulator
+  mark: robio2022
+  publisher: IEEE International Conference on Robotics and Biomimetics (ROBIO 2022)
+- authors:
+  - Chao Yu
+  - Xinyi Yang
+  - Jiaxuan Gao
+  - Huazhong Yang
+  - Yu Wang
+  - Yi Wu
+  date: '2022-01-01'
+  image: images/visual.png
+  link: https://arxiv.org/abs/2110.05734
+  title: Learning Efficient Multi-Agent Cooperative Visual Exploration
+  mark: eccv2022
+  publisher: European Conference on Computer Vision (ECCV 2022)
+- authors:
+  - Xinyi Yang
+  - Chao Yu
+  - Jiaxuan Gao
+  - Yu Wang
+  - Huazhong Yang
+  date: '2022-01-01'
+  image: images/save.png
+  link: https://www.researchgate.net/publication/365111412_SAVE_Spatial-Attention_Visual_Exploration
+  title: 'SAVE: Spatial-Attention Visual Exploration'
+  mark: icip2022
+  publisher: IEEE International Conference on Image Processing (ICIP 2022)
+- authors:
+  - Shiyu Huang
+  - Chao Yu
+  - Bin Wang
+  - Dong Li
+  - Yu Wang
+  - Ting Chen
+  - Jun Zhu
+  date: '2022-01-01'
+  image: images/vmapd.png
+  link: http://nicsefc.ee.tsinghua.edu.cn/nics_file/pdf/7e255313-1442-4481-ad41-ab675770a2b1.pdf
+  title: 'VMAPD: Generate Diverse Solutions for Multi-Agent Games with Recurrent Trajectory Discriminators'
+  mark: cog2022
+  publisher: IEEE Conference on Games (CoG 2022)
+- authors:
+  - Wei Fu
+  - Chao Yu
+  - Zelai Xu
+  - Jiaqi Yang
+  - Yi Wu
+  date: '2022-01-01'
+  image: images/revisiting.png
+  link: https://arxiv.org/abs/2206.07505
+  title: Revisiting Some Common Practices in Cooperative Multi-Agent Reinforcement Learning
+  mark: icml2022
+  publisher: Proceedings of the 39th International Conference on Machine Learning (ICML 2022)
+- authors:
+  - Weilin Liu
+  - Ye Mu
+  - Chao Yu
+  - Xuefei Ning
+  - Zhong Cao
+  - Yi Wu
+  - Shuang Liang
+  - Huazhong Yang
+  - Yu Wang
+  date: '2021-01-01'
+  image: images/vulner.png
+  link: https://arxiv.org/abs/2112.06185
+  title: Multi-Agent Vulnerability Discovery for Autonomous Driving with Hazard Arbitration Reward
+  mark: preprint2021
+  publisher: Preprint (2021)
+- authors:
+  - Wei Fu
+  - Chao Yu
+  - Yunfei Li
+  - Yi Wu
+  date: '2021-01-01'
+  image: images/mappo.png
+  link: https://nicsefc.ee.tsinghua.edu.cn/nics_file/pdf/698728b2-2b03-4ec2-98be-d675dbb2779b.pdf
+  title: Unlocking the Potential of MAPPO with Asynchronous Optimization
+  mark: caai2021
+  publisher: CAAI International Conference on Artificial Intelligence (2021)
+- authors:
+  - Zhenggang Tang
+  - Chao Yu
+  - Boyuan Chen
+  - Huazhe Xu
+  - Xiaolong Wang
+  - Fei Fang
+  - Simon Du
+  - Yu Wang
+  - Yi Wu
+  date: '2021-01-01'
+  image: images/incame.png
+  link: https://arxiv.org/abs/2103.04564
+  title: Discovering Diverse Multi-Agent Strategic Behavior via Reward Randomization
+  mark: iclr2021
+  publisher: The Ninth International Conference on Learning Representations (ICLR 2021)
+- authors:
+  - Jincheng Yu
+  - Zhilin Xu
+  - Shulin Zeng
+  - Chao Yu
+  - Jiantao Qiu
+  - Chaoyang Shen
+  - Yuanfan Xu
+  - Guohao Dai
+  - Yu Wang
+  - Huazhong Yang
+  date: '2020-01-01'
+  image: images/inca.png
+  link: https://nicsefc.ee.tsinghua.edu.cn/nics_file/pdf/publications/2020/DAC20_299_2gfq3TE.pdf
+  title: 'INCA: INterruptible CNN Accelerator for Multi-tasking in Embedded Robots'
+  mark: dac2020
+  publisher: 57th ACM/IEEE Design Automation Conference (DAC 2020)
+- authors:
+  - Jincheng Yu
+  - Feng Gao
+  - Jianfei Cao
+  - Chao Yu
+  - Zhaoliang Zhang
+  - Zhengfeng Huang
+  - Yu Wang
+  - Huazhong Yang
+  date: '2020-01-01'
+  image: images/cnnfpga.png
+  link: https://nicsefc.ee.tsinghua.edu.cn/nics_file/pdf/publications/2020/RAW20_308.pdf
+  title: CNN-based Monocular Decentralized SLAM on Embedded FPGA
+  mark: ipdpsw2020
+  publisher: IEEE International Parallel and Distributed Processing Symposium Workshops (IPDPSW 2020)
+- authors:
+  - Zhilin Xu
+  - Jincheng Yu
+  - Chao Yu
+  - Hao Shen
+  - Yu Wang
+  - Huazhong Yang
+  date: '2020-01-01'
+  image: images/cnnfpga2.png
+  link: https://nicsefc.ee.tsinghua.edu.cn/nics_file/pdf/publications/2020/FCCM20_303.pdf
+  title: CNN-based Feature-point Extraction for Real-time Visual SLAM on Embedded FPGA
+  mark: fccm2020
+  publisher: IEEE 28th Annual International Symposium on Field-Programmable Custom Computing Machines (FCCM 2020)
+- authors:
+  - Bo Xiong
+  - Fangshi Wang
+  - Chao Yu
+  - Fei Qiao
+  - Yi Yang
+  - Qi Wei
+  - Xinjun Liu
+  date: '2019-01-01'
+  image: images/longsight.png
+  link: https://dl.acm.org/doi/10.1145/3387304.3387320
+  title: Long-Sighted Imitation Learning for Partially Observable Control
+  mark: iccrt2019
+  publisher: Proceedings of the 2019 2nd International Conference on Control and Robot Technology (ICCRT 2019)
+- authors:
+  - Chao Yu
+  - Zuxin Liu
+  - Xin-Jun Liu
+  - Fei Qiao
+  - Yu Wang
+  - Fugui Xie
+  - Qi Wei
+  - Yi Yang
+  date: '2019-01-01'
+  image: images/densenet.png
+  link: https://doi.org/10.1109/ROBIO49542.2019.8961714
+  title: A DenseNet Feature-based Loop Closure Method for Visual SLAM System
+  mark: robio2019
+  publisher: 2019 IEEE International Conference on Robotics and Biomimetics (ROBIO 2019)
+- authors:
+  - Bo Xiong
+  - Fangshi Wang
+  - Chao Yu
+  - Fei Qiao
+  - Yi Yang
+  - Qi Wei
+  - Xinjun Liu
+  date: '2019-01-01'
+  image: images/safety.png
+  link: https://www.researchgate.net/publication/352902421_Learning_Safety-Aware_Policy_with_Imitation_Learning_for_Context-Adaptive_Navigation
+  title: Learning Safety-Aware Policy with Imitation Learning for Context-Adaptive Navigation
+  mark: workshop2019
+  publisher: Workshop Paper / Technical Report (2019)
+- authors:
+  - Chao Yu
+  - Zuxin Liu
+  - Xin-Jun Liu
+  - Fugui Xie
+  - Yi Yang
+  - Qi Wei
+  - Qiao Fei
+  date: '2018-01-01'
+  image: images/dsslam.png
+  link: https://arxiv.org/abs/1809.08379
+  title: 'DS-SLAM: A Semantic Visual SLAM towards Dynamic Environments'
+  mark: iros2018
+  publisher: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2018)

@@ -1,0 +1,27 @@
+- title: MAPPO
+  subtitle: NeurIPS 2022(<span style="color:red">Over 3000 citations</span>) implementation of Multi-Agent PPO (MAPPO)
+  image: images/projects/mappo1.png
+  link: https://github.com/marlbenchmark
+  repo: marlbenchmark/on-policy
+  date: 2024
+
+- title: RLinf
+  subtitle: Reinforcement Learning Infrastructure for Embodied and Agentic AI
+  image: images/projects/rlinflogo.png
+  link: https://github.com/RLinf/RLinf
+  repo: RLinf/RLinf
+  date: 2026
+
+- title: VolleyBots
+  subtitle: A Testbed for Multi-Drone Volleyball Game Combining Motion Control and Strategic Play
+  image: images/projects/volley.png
+  link: https://volleybots.github.io/
+  repo: thu-uav/VolleyBots
+  date: 2025
+
+- title: VS-Bench
+  subtitle: Evaluating VLMs for Strategic Abilities in Multi-Agent Environments
+  image: images/vsbench.png
+  link: https://vs-bench.github.io/
+  repo: zelaix/VS-Bench
+  date: 2025
