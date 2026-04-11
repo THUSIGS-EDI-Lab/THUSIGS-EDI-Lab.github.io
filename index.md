@@ -22,3 +22,35 @@ Our lab is currently recruiting Master's students, Ph.D. students, joint-program
 ## Talks
 
 {% include list.html data="courses" component="post-excerpt" %}
+
+# Sponsors
+
+<div style="
+display: flex;
+flex-wrap: wrap;
+gap: 16px;
+justify-content: center;
+margin-top: 20px;
+">
+
+  <div style="border: 1px solid #ddd; padding: 12px 24px; background: #fff;">
+    <img src="/images/logos/kuaishou.png" style="height: 40px;">
+  </div>
+
+  <div style="border: 1px solid #ddd; padding: 12px 24px; background: #fff;">
+    <img src="/images/logos/meituan.png" style="height: 40px;">
+  </div>
+
+  <div style="border: 1px solid #ddd; padding: 12px 24px; background: #fff;">
+    <img src="/images/logos/pingtouge.png" style="height: 40px;">
+  </div>
+
+  <div style="border: 1px solid #ddd; padding: 12px 24px; background: #fff;">
+    <img src="/images/logos/biren.png" style="height: 40px;">
+  </div>
+
+  <div style="border: 1px solid #ddd; padding: 12px 24px; background: #fff;">
+    <img src="/images/logos/mitsubishi.png" style="height: 40px;">
+  </div>
+
+</div>
