@@ -64,24 +64,11 @@ nav:
 
 {% include section.html %}
 
-## 工作环境
-
-- 办公室
-    - Homelab：信息楼1701有部分固定工位供长期在校学生学习。
-    - 共享空间：信息楼1707、1708为学生24小时共享空间供学生学习。
-- 计算资源
-    - 学院计算资源：若干V100
-    - 组内计算资源：约30张显卡，并还在增加中。其中4卡4090、V100、3090服务器五台用于训练，以及十余张推理卡。
-    - 组内具身资源：Franka机械臂2台，UR5机械臂一台，配备Gello遥操设备，空间鼠标等，仍在持续建设中。
-    - 合作资源：充足的高性能计算显卡用于训练（包括A100、V100），以及推理卡（T4等）用于部署。
-
-{% include section.html %}
-
 ## 我们能提供
 
 - {% include icon.html icon="fa-solid fa-building-columns" %} **顶尖学术平台**：与清华大学电子工程系紧密合作
-- {% include icon.html icon="fa-solid fa-industry" %} **产学研实践**：与无问芯穹等企业深度合作
-- {% include icon.html icon="fa-solid fa-desktop" %} **充足算力资源**：充足的 GPU 集群支持大模型训练与实验
+- {% include icon.html icon="fa-solid fa-industry" %} **产学研实践**：与无问芯穹、智元机器人、自变量机器人、华为、华为引望、英伟达、灵初、腾讯等业界知名企业企业深度合作
+- {% include icon.html icon="fa-solid fa-desktop" %} **充足算力资源**：充足的 GPU 集群和实机支持大模型和具身智能训练与实验
 - {% include icon.html icon="fa-solid fa-users" %} **友好团队氛围**：定期学术研讨、团队活动，师生关系融洽
 
 {% include section.html %}
