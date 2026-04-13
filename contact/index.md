@@ -10,7 +10,7 @@ nav:
 
 具身决策智能实验室（Embodied Decision Intelligence Lab，EDI Lab）隶属于清华大学深圳国际研究生院，由于超助理教授指导。实验室致力于**强化学习基础架构**、**多智能体决策**以及**具身智能**相关方向的研究。
 
-于超助理教授以第一作者或通讯作者身份在 **ICML、NeurIPS、ICLR、CVPR、ECCV、CoRL、IROS、ICRA、TMLR、RAL** 等国际顶级会议和期刊上发表论文 **50** 余篇，Google Scholar 引用超过 **6000** 次。其代表性工作包括多智能体强化学习算法 [MAPPO](https://github.com/marlbenchmark/on-policy)，Google Scholar 引用已超过 **3000** 次，以及面向具身智能的大规模强化学习训练框架 [RLinf](https://github.com/RLinf/RLinf)，其 GitHub 星标数已超过 **3000**。实验室与清华大学电子工程系、无问芯穹等保持长期紧密合作，并且高度活跃于开源社区。
+于超老师是**清华大学深圳国际研究生院助理教授**，同时担任**清华⼤学深圳国际研究⽣院-智元创新（上海）科技股份有限公司具⾝智能认知与决策系统联合研究中⼼主任**，以第一作者或通讯作者身份在 **ICML、NeurIPS、ICLR、CVPR、ECCV、CoRL、IROS、ICRA、TMLR、RAL** 等国际顶级会议和期刊上发表论文 **50** 余篇，Google Scholar 引用超过 **6000** 次。其代表性工作包括多智能体强化学习算法 [MAPPO](https://github.com/marlbenchmark/on-policy)，Google Scholar 引用已超过 **3000** 次，以及面向具身智能的大规模强化学习训练框架 [RLinf](https://github.com/RLinf/RLinf)，其 GitHub 星标数已超过 **3000**。实验室与清华大学电子工程系、无问芯穹等保持长期紧密合作，并且高度活跃于开源社区。
 
 如果您对我们的研究方向感兴趣，我们诚挚邀请您加入 EDI Lab！
 
@@ -67,7 +67,7 @@ nav:
 ## 我们能提供
 
 - {% include icon.html icon="fa-solid fa-building-columns" %} **顶尖学术平台**：与清华大学电子工程系紧密合作
-- {% include icon.html icon="fa-solid fa-industry" %} **产学研实践**：与无问芯穹、智元机器人、自变量机器人、华为、华为引望、英伟达、灵初、腾讯等业界知名企业企业深度合作
+- {% include icon.html icon="fa-solid fa-industry" %} **产学研实践**：与无问芯穹、智元机器人、自变量机器人、华为、华为引望、英伟达、灵初、腾讯等业界知名企业深度合作
 - {% include icon.html icon="fa-solid fa-desktop" %} **充足算力资源**：充足的 GPU 集群和实机支持大模型和具身智能训练与实验
 - {% include icon.html icon="fa-solid fa-users" %} **友好团队氛围**：定期学术研讨、团队活动，师生关系融洽
 
