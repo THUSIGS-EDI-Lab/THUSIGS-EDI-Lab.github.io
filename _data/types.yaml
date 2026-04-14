@@ -18,9 +18,17 @@ phd:
   icon: fa-solid fa-graduation-cap
   description: PhD Student
 
+jphd:
+  icon: fa-solid fa-graduation-cap
+  description: Joint Supervised PhD Student
+
 ms:
   icon: fa-solid fa-user-graduate
   description: Master Student
+
+jms:
+  icon: fa-solid fa-user-graduate
+  description: Joint Supervised Master Student
 
 bs:
   icon: fa-solid fa-book-open
