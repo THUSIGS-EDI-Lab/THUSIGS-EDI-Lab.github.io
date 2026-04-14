@@ -18,8 +18,14 @@ nav:
 ## Ph.D. Students
 {% include list.html data="members" component="portrait" filters="role: phd" %}
 
+## Joint Supervised Ph.D. Students
+{% include list.html data="members" component="portrait" filters="role: jphd" %}
+
 ## Master Students
 {% include list.html data="members" component="portrait" filters="role: ms" %}
+
+## Joint Supervised Master Students
+{% include list.html data="members" component="portrait" filters="role: jms" %}
 
 ## Undergraduate Students
 {% include list.html data="members" component="portrait" filters="role: ug" %}
