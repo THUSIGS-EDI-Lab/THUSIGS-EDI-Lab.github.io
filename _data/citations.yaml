@@ -376,8 +376,8 @@
   image: images/vsbench.png
   link: https://arxiv.org/abs/2506.02387
   title: 'VS-Bench: Evaluating VLMs for Strategic Reasoning and Decision-Making in Multi-Agent Environments'
-  mark: iclr2026
-  publisher: ICLR 2026 Oral
+  mark: cvpr2026
+  publisher: CVPR 2026 Oral
 - authors:
   - Jijia Liu
   - Feng Gao
