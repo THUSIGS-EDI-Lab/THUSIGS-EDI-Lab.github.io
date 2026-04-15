@@ -46,7 +46,7 @@ margin-top: 20px;
   </div>
 
   <div style="border: 1px solid #ddd; padding: 12px 24px; background: #fff;">
-    <img src="/images/logos/zhiyuan.webp" style="height: 40px;">
+    <img src="/images/logos/zhiyuan.png" style="height: 40px;">
   </div>
 
   <div style="border: 1px solid #ddd; padding: 12px 24px; background: #fff;">
