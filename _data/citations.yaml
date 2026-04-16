@@ -11,8 +11,8 @@
   image: images/tex3d.png
   link: https://arxiv.org/abs/2604.01618
   title: 'Tex3D: Objects as Attack Surfaces via Adversarial 3D Textures for Vision-Language-Action Models'
-  mark: acmmm2026
-  publisher: Proceedings of the ACM Multimedia Conference (ACM MM 2026)
+  mark: arxiv2026
+  publisher: arXiv preprint arXiv:2604.01618
 - authors:
   - Zhennan Jiang
   - Shangqing Zhou
