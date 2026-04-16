@@ -2,7 +2,7 @@
 name: Yuqing Xie
 name_cn: 谢昱清
 image: images/headshots/404.webp
-role: phd
+role: pjhd
 year: 2026
 affiliation: 
 ---
