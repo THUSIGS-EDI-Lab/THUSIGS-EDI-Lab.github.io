@@ -15,13 +15,15 @@ Our lab is currently recruiting **Master's students, Ph.D. students, joint-progr
 
 ## News
 
-{% include list.html data="posts" component="post-excerpt" limit=3 %}
+{% include list.html data="posts" component="post-excerpt" limit=5 %}
 
 {% include button.html text="View all news →" link="news" %}
 
 ## Talks
 
-{% include list.html data="courses" component="post-excerpt" %}
+{% include list.html data="courses" component="post-excerpt" limit=5 %}
+
+{% include button.html text="View all talks →" link="course" %}
 
 # Sponsors
 
