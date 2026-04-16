@@ -22,6 +22,10 @@ pjhd:
   icon: fa-solid fa-graduation-cap
   description: Joint Supervised PhD Student
 
+pzgc:
+  icon: fa-solid fa-graduation-cap
+  description: Zhongguancun Academy PhD Student
+
 ms:
   icon: fa-solid fa-user-graduate
   description: Master Student
