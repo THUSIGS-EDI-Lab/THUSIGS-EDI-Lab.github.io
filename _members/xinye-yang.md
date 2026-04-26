@@ -1,6 +1,6 @@
 ---
 name: Xinye Yang
-name_cn: Xinye Yang
+name_cn: 杨昕烨
 image: images/headshots/yang-xinye.jpg
 role: pzgc
 year: 2026

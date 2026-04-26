@@ -1,6 +1,6 @@
 ---
 name: Shuaihang Chen
-name_cn: Shuaihang Chen
+name_cn: 陈帅行
 image: images/headshots/chen-shuaihang.jpg
 role: pzgc
 year: 2026

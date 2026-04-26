@@ -1,6 +1,6 @@
 ---
 name: Kang Chen
-name_cn: Kang Chen
+name_cn: 陈康
 image: images/headshots/chen-kang.jpg
 role: pzgc
 year: 2026

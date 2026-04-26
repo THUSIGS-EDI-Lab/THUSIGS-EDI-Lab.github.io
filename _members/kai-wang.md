@@ -1,6 +1,6 @@
 ---
 name: Kai Wang
-name_cn: Kai Wang
+name_cn: 汪楷
 image: images/headshots/wang-kai.png
 role: pzgc
 year: 2026
