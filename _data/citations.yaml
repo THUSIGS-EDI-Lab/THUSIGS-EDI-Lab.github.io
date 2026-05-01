@@ -1,4 +1,27 @@
 - authors:
+  - Yuanqing Wang
+  - Hao Lin
+  - Junhao Hu
+  - Chunyang Zhu
+  - Quanlu Zhang
+  - Zhen Guo
+  - Yuchen Zhang
+  - Xu Fu
+  - Si Xu
+  - Bo Dai
+  - Zixiao Huang
+  - Chao Yu
+  - Boxun Li
+  - Guohao Dai
+  - Zhi Yang
+  - Yu Wang
+  date: '2026-07-13'
+  image: images/osdi26_dynarl.png
+  link: https://www.usenix.org/conference/osdi26/presentation/wang-yuanqing
+  title: 'DynaRL: Flexible and Dynamic Scheduling of Large-scale Reinforcement Learning Training'
+  mark: osdi2026
+  publisher: USENIX Symposium on Operating Systems Design and Implementation (OSDI 2026)
+- authors:
   - Jiawei Chen
   - Simin Huang
   - Jiawei Du
@@ -72,9 +95,9 @@
   date: '2026-01-01'
   image: images/rlinfuser.png
   link: https://arxiv.org/abs/2602.07837
-  title: 'RLinf-USER: A Unified and Extensible System for Real-World Online Policy Learning in Embodied AI'
-  mark: arxiv2026
-  publisher: arXiv preprint arXiv:2602.07837
+  title: 'USER: A Unified and Extensible System for Real-World Online Policy Learning in Embodied AI'
+  mark:  RSS 2026
+  publisher: RSS 2026
 - authors:
   - Zelai Xu
   - Zhexuan Xu
@@ -204,9 +227,9 @@
   date: '2025-01-01'
   image: images/rlinfvla.png
   link: https://arxiv.org/abs/2510.06710
-  title: 'RLinf-VLA: A Unified and Efficient Framework for VLA+RL Training'
-  mark: arxiv2025
-  publisher: arXiv preprint arXiv:2510.06710
+  title: 'RLux-VLA: A Unified and Efficient Framework for VLA+RL Training'
+  mark: RSS 2026
+  publisher: RSS 2026
 - authors:
   - Yixian Zhang
   - Shu'ang Yu
@@ -305,9 +328,9 @@
   date: '2025-01-01'
   image: images/rlinf.png
   link: https://arxiv.org/abs/2509.15965
-  title: 'RLinf: Flexible and Efficient Large-scale Reinforcement Learning via Macro-to-Micro Flow Transformation'
-  mark: arxiv2025
-  publisher: arXiv preprint arXiv:2509.15965 (2025)
+  title: 'RLux: Flexible and Efficient Large-scale Reinforcement Learning via Macro-to-Micro Flow Transformation'
+  mark: OSDI 2026
+  publisher: USENIX Symposium on Operating Systems Design and Implementation (OSDI 2026)
 - authors:
   - Shu-Ang Yu
   - Feng Gao
