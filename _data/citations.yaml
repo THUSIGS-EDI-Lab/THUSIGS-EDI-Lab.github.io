@@ -1,4 +1,19 @@
 - authors:
+  - Chao Yu
+  - Qixin Tan
+  - Hong Lu
+  - Jiaxuan Gao
+  - Xinting Yang
+  - Yu Wang
+  - Yi Wu
+  - Eugene Vinitsky
+  date: '2026-10-01'
+  image: images/icpl.png
+  link: https://arxiv.org/abs/2410.17233
+  title: 'ICPL: Few-shot In-Context Preference Learning via LLMs'
+  mark: rlc2024
+  publisher: RLC 2026
+- authors:
   - Yuanqing Wang
   - Hao Lin
   - Junhao Hu
