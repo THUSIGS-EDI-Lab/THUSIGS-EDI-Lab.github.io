@@ -1,4 +1,38 @@
 - authors:
+  -  Jiayu Chen
+  - Chao Yu
+  - Yuqing Xie
+  - Feng Gao
+  - Yinuo Chen
+  - Shu'ang Yu
+  - Wenhao Tang
+  - Shilong Ji
+  - Mo Mu
+  - Yi Wu
+  - Huazhong Yang
+  - Yu Wang
+  date: '2026-10-01'
+  image: images/traj.png
+  link: https://ieeexplore.ieee.org/document/11017653
+  title: 'What Matters in Learning A Zero-Shot Sim-to-Real RL Policy for Quadrotor Control? A Comprehensive Study'
+  mark: ral2025
+  publisher: IEEE Robotics and Automation Letters (RAL), IEEE, 2025
+- authors:
+  - Tianxing Zhou
+  - Haojia Ao
+  - Haoyang Lu
+  - Guangyan Chen
+  - Zichen Zhou
+  - Te Cui
+  - Chao Yu
+  - Yufeng Yue
+  date: '2026-10-01'
+  image: images/icpl.png
+  link: https://ieeexplore.ieee.org/document/11543318
+  title: 'Human-Guided Online Reward Adaptation for Real-Robot Arm Manipulation'
+  mark: ral2026
+  publisher: IEEE Robotics and Automation Letters (RAL), IEEE, 2026
+- authors:
   - Chao Yu
   - Qixin Tan
   - Hong Lu
@@ -49,8 +83,8 @@
   image: images/tex3d.png
   link: https://arxiv.org/abs/2604.01618
   title: 'Tex3D: Objects as Attack Surfaces via Adversarial 3D Textures for Vision-Language-Action Models'
-  mark: arxiv2026
-  publisher: arXiv preprint arXiv:2604.01618
+  mark: mm2026
+  publisher: ACM International Conference on Multimedia (MM), ACM, 2026
 - authors:
   - Zhennan Jiang
   - Shangqing Zhou
@@ -146,8 +180,8 @@
   image: images/roboscape.png
   link: https://arxiv.org/abs/2512.03556
   title: 'RoboScape-R: Unified Reward-Observation World Models for Generalizable Robotics Training via RL'
-  mark: preprint2025
-  publisher: Preprint (2025)
+  mark: cvpr2026
+  publisher: Conference on Computer Vision and Pattern Recognition (CVPR) Findings, IEEE, 2026
 - authors:
   - Jiawei Chen
   - Yang Yang
@@ -308,8 +342,8 @@
   image: images/world4rl.png
   link: https://arxiv.org/abs/2509.19080
   title: 'World4RL: Diffusion World Models for Policy Refinement with Reinforcement Learning for Robotic Manipulation'
-  mark: arxiv2025
-  publisher: arXiv preprint arXiv:2509.19080
+  mark: RAL2026
+  publisher: IEEE Robotics and Automation Letters (RAL 2026)
 - authors:
   - Chao Yu
   - Yuanqing Wang
@@ -415,7 +449,7 @@
   link: https://arxiv.org/abs/2506.02387
   title: 'VS-Bench: Evaluating VLMs for Strategic Reasoning and Decision-Making in Multi-Agent Environments'
   mark: cvpr2026
-  publisher: CVPR 2026 Oral
+  publisher: IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Oral, 2026
 - authors:
   - Jijia Liu
   - Feng Gao
@@ -506,8 +540,8 @@
   image: images/hann.png
   link: https://arxiv.org/abs/2504.13582
   title: Hysteresis-Aware Neural Network Modeling and Whole-Body Reinforcement Learning Control of Soft Robots
-  mark: preprint2025
-  publisher: Preprint (2025)
+  mark: ral2025
+  publisher: IEEE Robotics and Automation Letters (RAL), IEEE, 2025
 - authors:
   - Le Qiu
   - Zelai Xu
@@ -519,8 +553,8 @@
   image: images/aed.png
   link: https://arxiv.org/abs/2503.20804
   title: 'AED: Automatic Discovery of Effective and Diverse Vulnerabilities for Autonomous Driving Policy with Large Language Models'
-  mark: aaai2026
-  publisher: The AAAI 2026 Bridge Program on Advancing Large Language Models and Multi-Agent Systems
+  mark: case2026
+  publisher: International Conference on Automation Science and Engineering (CASE), 2026
 - authors:
   - Chuqi Wang
   - Chao Yu
