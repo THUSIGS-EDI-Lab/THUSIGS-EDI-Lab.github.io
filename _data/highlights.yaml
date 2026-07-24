@@ -3,9 +3,9 @@
     - Akash Velu
     - Eugene Vinitsky
     - Jiaxuan Gao
-    - Yu Wang
-    - Alexandre Bayen
-    - Yi Wu
+    - Yu Wang*
+    - Alexandre Bayen*
+    - Yi Wu*
   date: '2022-01-01'
   image: images/ppogames.png
   link: 'https://proceedings.neurips.cc/paper_files/paper/2022/hash/9c1535a02f0ce079433344e14d910597-Abstract-Datasets_and_Benchmarks.html'
@@ -21,8 +21,8 @@
     - Weilin Liu
     - Zhiyu Mei
     - Guangju Wang
-    - Chao Yu
-    - Yi Wu
+    - Chao Yu*
+    - Yi Wu*
   date: '2024-01-01'
   image: images/dpostudy.png
   link: 'https://arxiv.org/abs/2404.10719'
@@ -34,8 +34,8 @@
     - Zelai Xu
     - Chao Yu
     - Fei Fang
-    - Yu Wang
-    - Yi Wu
+    - Yu Wang*
+    - Yi Wu*
   date: '2024-01-01'
   image: images/werewolf.png
   link: 'https://arxiv.org/abs/2310.18940'
@@ -59,14 +59,14 @@
     - Wenhao Tang
     - Quanlu Zhang
     - Weinan Zhang
-    - Chao Yu
-    - Yu Wang
+    - Chao Yu*
+    - Yu Wang*
   date: '2025-01-01'
   image: images/rlinfvla.png
   link: 'https://arxiv.org/abs/2510.06710'
   title: 'RLinf-VLA: A Unified and Efficient Framework for VLA+RL Training'
   mark: rlinfvla2025
-  publisher: arXiv preprint
+  publisher: Proceedings of RSS
 
 - authors:
     - Chao Yu
@@ -96,14 +96,14 @@
     - Boxun Li
     - Jianlei Yang
     - Zhi Yang
-    - Guohao Dai
-    - Yu Wang
+    - Guohao Dai*
+    - Yu Wang*
   date: '2025-01-01'
   image: images/rlinf.png
   link: 'https://arxiv.org/abs/2509.15965'
   title: 'RLinf: Flexible and Efficient Large-scale Reinforcement Learning via Macro-to-Micro Flow Transformation'
   mark: rlinf2025
-  publisher: arXiv preprint
+  publisher: Proceedings of OSDI
 
 - authors:
     - Zelai Xu
@@ -112,8 +112,8 @@
     - Huining Yuan
     - Xinlei Chen
     - Yongji Wu
-    - Chao Yu
-    - Yu Wang
+    - Chao Yu*
+    - Yu Wang*
   date: '2026-01-01'
   image: images/vsbench.png
   link: 'https://arxiv.org/abs/2506.02387'

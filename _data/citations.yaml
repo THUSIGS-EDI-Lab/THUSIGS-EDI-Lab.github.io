@@ -271,12 +271,12 @@
   - Wenhao Tang
   - Quanlu Zhang
   - Weinan Zhang
-  - Chao Yu
-  - Yu Wang
+  - Chao Yu*
+  - Yu Wang*
   date: '2025-01-01'
   image: images/rlinfvla.png
   link: https://arxiv.org/abs/2510.06710
-  title: 'RLux-VLA: A Unified and Efficient Framework for VLA+RL Training'
+  title: 'RLinf-VLA: A Unified and Efficient Framework for VLA+RL Training'
   mark: RSS 2026
   publisher: RSS 2026
 - authors:
@@ -286,9 +286,9 @@
   - Mo Guang
   - Haojia Hui
   - Kaiwen Long
-  - Yu Wang
-  - Chao Yu
-  - Wenbo Ding
+  - Yu Wang*
+  - Chao Yu*
+  - Wenbo Ding*
   date: '2026-01-01'
   image: images/sacflow.png
   link: https://arxiv.org/abs/2509.25756
@@ -372,12 +372,12 @@
   - Boxun Li
   - Jianlei Yang
   - Zhi Yang
-  - Guohao Dai
-  - Yu Wang
+  - Guohao Dai*
+  - Yu Wang*
   date: '2025-01-01'
   image: images/rlinf.png
   link: https://arxiv.org/abs/2509.15965
-  title: 'RLux: Flexible and Efficient Large-scale Reinforcement Learning via Macro-to-Micro Flow Transformation'
+  title: 'RLinf: Flexible and Efficient Large-scale Reinforcement Learning via Macro-to-Micro Flow Transformation'
   mark: OSDI 2026
   publisher: USENIX Symposium on Operating Systems Design and Implementation (OSDI 2026)
 - authors:
@@ -457,8 +457,8 @@
   - Xinlei Chen
   - Qingmin Liao
   - Yi Wu
-  - Chao Yu
-  - Yu Wang
+  - Chao Yu*
+  - Yu Wang*
   date: '2025-01-01'
   image: images/rlstudy.png
   link: https://arxiv.org/abs/2505.19789

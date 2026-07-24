@@ -12,6 +12,8 @@ a_publishers:
 - Journal of IEEE Transactions on Knowledge and Data Engineering (TKDE)
 - Proceedings of ICLR
 - Proceedings of CVPR
+- Proceedings of OSDI
+- Proceedings of RSS
 
 b_publishers:
 - Proceedings of EMNLP
