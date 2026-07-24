@@ -51,21 +51,21 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<title>智元的Genie Sim已接入RLinf! | Embodied Decision Intelligence Lab (EDI Lab)</title>
+<title>RLinf v0.3 发布 | Embodied Decision Intelligence Lab (EDI Lab)</title>
 
 <link rel="icon" href="/images/favicon.ico">
 
-<meta name="title" content="智元的Genie Sim已接入RLinf!">
+<meta name="title" content="RLinf v0.3 发布">
 <meta name="description" content="清华大学具身决策智能实验室. Toward scalable decision intelligence in the physical world">
 
-<meta property="og:title" content="智元的Genie Sim已接入RLinf!">
+<meta property="og:title" content="RLinf v0.3 发布">
 <meta property="og:site_title" content="Embodied Decision Intelligence Lab (EDI Lab)">
 <meta property="og:description" content="清华大学具身决策智能实验室. Toward scalable decision intelligence in the physical world">
 <meta property="og:url" content="https://tihayakousaka.github.io">
 <meta property="og:image" content="">
 <meta property="og:locale" content="en_US">
 
-<meta property="twitter:title" content="智元的Genie Sim已接入RLinf!">
+<meta property="twitter:title" content="RLinf v0.3 发布">
 <meta property="twitter:description" content="清华大学具身决策智能实验室. Toward scalable decision intelligence in the physical world">
 <meta property="twitter:url" content="https://tihayakousaka.github.io">
 <meta property="twitter:card" content="summary_large_image">
@@ -81,9 +81,9 @@
     
       "@type": "WebSite",
     
-    "name": "智元的Genie Sim已接入RLinf!",
+    "name": "RLinf v0.3 发布",
     "description": "清华大学具身决策智能实验室. Toward scalable decision intelligence in the physical world",
-    "headline": "智元的Genie Sim已接入RLinf!",
+    "headline": "RLinf v0.3 发布",
     "publisher": {
       "@type": "Organization",
       "logo": { "@type": "ImageObject", "url": "/images/favicon.ico" }
@@ -424,7 +424,7 @@
 -->
 
 
-<h1 class="center">智元的Genie Sim已接入RLinf!</h1>
+<h1 class="center">RLinf v0.3 发布</h1>
 
 <div class="post-info">
   
@@ -435,7 +435,7 @@
   
     <span data-tooltip="Originally published on">
       <i class="icon fa-regular fa-calendar"></i>
-      <span>April 08, 2026</span>
+      <span>July 15, 2026</span>
     </span>
   
 
@@ -460,156 +460,313 @@
 -->
 
 
-<h1 id="智元仿真平台genie-sim-30迎来新升级自然语言生成3d世界">智元仿真平台Genie Sim 3.0迎来新升级，自然语言生成3D世界</h1>
+<h1 id="rlinf-v03来了从模型生态到真机部署五大能力跃升无问芯穹与清华大学联合打造">RLinf v0.3来了！从模型生态到真机部署五大能力跃升，无问芯穹与清华大学联合打造</h1>
 
-<p>真实世界的数据，让机器人开始真正“看见”和“经历”这个世界。但当数据问题被部分解决之后，一个更深层的问题随之浮现：</p>
+<p>当下的具身智能行业，正站在从“数据驱动”迈向“经验驱动”的关键拐点上。机器人不再满足于静态模仿，而是需要在真实世界中持续学习、在线进化。但在现实中，强化学习流程复杂、系统组件异构、资源形态多样以及真实世界在线学习难以规模化等关键问题，成为影响具身智能走进真实世界的行业痛点。</p>
 
-<p><strong>仅仅依靠现实世界，是否足够支撑具身智能的快速进化？</strong>场景构建难以泛化，评测标准缺乏统一，每一次算法迭代，仍伴随着繁重的工程投入。</p>
+<p>今天，由无问芯穹联合清华大学等共同研发的<strong>全球首个面向具身智能持续进化的大规模强化学习基础设施项目RLinf，正式宣布升级为 RLinf v0.3，</strong>为破解具身智能行业发展瓶颈构建了新一代“进化底座”！</p>
 
-<p><strong>如果现实世界不够快，我们就“生成一个世界”，</strong>这正是 Genie Sim 诞生的初衷，以构建一个与真实世界等价、甚至更高效的“训练和验证环境”。</p>
+<p>RLinf v0.1 和 v0.2 分别完成了强化学习系统抽象与真实世界在线学习基础设施建设。新版 RLinf v0.3<strong>进一步升级为面向具身智能持续进化的一站式开发平台，</strong>首次完整打通<strong>数据采集、数据管理、监督微调（SFT）、强化学习（RL）、模型评测以及真机部署</strong>等关键环节，实现从仿真训练到真实机器人在线学习、再到持续迭代优化的统一开发闭环。</p>
 
-<p>今天，</p>
+<p>由此，RLinf不仅能够高效训练机器人策略，更能够支撑机器人在真实世界中的长期持续进化。</p>
 
-<p>Genie Sim3.0</p>
+<p>具体来说，RLinf v0.3围绕<strong>模型、算法、真机、仿真、系统</strong>五个维度，进行了全面升级，系统性地降低具身智能开发门槛，提升训练效率与部署灵活性，覆盖更加丰富的具身智能开源生态。</p>
 
-<p> <strong>一站式仿真开发</strong>平台</p>
+<p>针对强化学习中“参数难调、结果难复现”的行业痛点，RLinf 始终将训练效果的严格可复现作为核心标准。在此次 v0.3 正式发布前，研发团队已对大量应用示例完成了深度的复现性测试，详见v0.3 Release Notes。</p>
 
-<p>迎来新升级。通过环境生成、场景泛化、数据采集到模型评测的全流程仿真，显著加速模型训练验证，提升开发者与研究者的研发效率，推动具身智能的创新应用。</p>
+<p>本次发版已与包括百度智能云在内的多家云厂商协同上线。</p>
 
-<p>从构建到数据，从场景到评测——我们为具身智能提供一套完整可复用的开源底座。</p>
+<p><strong>RLinf v0.3 Release Notes：</strong>https://rlinf.readthedocs.io/zh-cn/release-v0.3/rst_source/resources/release_v0.3.html</p>
 
-<ul>
-  <li>
-    <p><strong>项目主页：</strong></p>
+<p><strong>快速上手：</strong></p>
 
-    <p>agibot-world.com/genie-sim</p>
-  </li>
-  <li>
-    <p><strong>Github地址：</strong></p>
+<p>https://docs.neogpu.com/posts/rlinf-ppo-vla.html</p>
 
-    <p>github.com/AgibotTech/genie_sim</p>
-  </li>
-</ul>
+<p>https://cloud.baidu.com/doc/AIHC/s/fmrenj9u1</p>
 
-<p><strong>01/</strong></p>
+<p><strong>Github链接：</strong>https://github.com/RLinf/RLinf</p>
 
-<p><strong>Genie Sim World：</strong></p>
+<p><strong>RLinf Tech Report：</strong>https://arxiv.org/abs/2509.15965</p>
 
-<p><strong>语言造世界，环境构建触手可及</strong></p>
+<p><strong>01 模型生态：新增6款主流具身模型</strong></p>
 
-<p><strong>在传统范式中，仿真环境是被“搭建”的。而在 Genie Sim 3.0 中，环境第一次成为被“生成”的对象。</strong>自然语言，即世界的接口。只需一句话或一张图，即可生成可交互、可漫游、可训练的三维世界，实现“输入即场景”的即时生成体验。</p>
+<p>RLinf v0.3继续扩展模型生态，新增 6 款具身模型支持，涵盖世界模型、VLA 模型及系统级加速：</p>
 
 <ul>
   <li>
-    <p><strong>图文生境：</strong>无需建模、采集或硬件，仅文本或图片输入，用户即可零门槛生成海量场景。通过多模态大模型，用户指令一改、场景即换，无限泛化。</p>
+    <p>新增</p>
+
+    <p><strong>Dexbotic DM0</strong> 模型支持，在 LIBERO 上用 PPO 进行在线 RL 微调。</p>
   </li>
   <li>
-    <p><strong>极速生成：</strong>空间世界模型单次推理即可完成构建，生成速度从“小时级”提升至“分钟级”，实时仿真、动态交互即开即用。</p>
+    <p>新增 DreamZero</p>
+
+    <p>模型支持：基于 WAN2.1/2.2 视频生成世界模型微调的 VLA 策略，集成进 SFT 工作流，通过 FSDP2/CUDA Graph 等系统级加速取得近4倍</p>
+
+    <p>吞吐提升。</p>
   </li>
   <li>
-    <p><strong>虚实一致：</strong>RGB、深度、激光雷达等多模态数据原生同步输出，实现仿真数据与真实世界的浑然一体。</p>
+    <p>新增 GR00T-N1.6 / N1.7</p>
+
+    <p>模型 RL 微调支持。</p>
+  </li>
+  <li>
+    <p>新增 ABot-M0</p>
+
+    <p>模型支持。</p>
+  </li>
+  <li>
+    <p>新增 StarVLA</p>
+
+    <p>模型支持（GRPO on LIBERO）。</p>
+  </li>
+  <li>
+    <p>新增 LingBot-VLA</p>
+
+    <p>模型支持（RoboTwin 环境 SFT/RL）。</p>
   </li>
 </ul>
 
-<p><img src="/images/1/1.gif" alt=""></p>
+<p><strong>02 算法体系：从模仿学习到真机学习全覆盖</strong></p>
 
-<p><strong>02/</strong></p>
+<p>新版在真机 RL、仿真 RL 和人在环学习三个方向均有重要算法新增，表现出SOTA的真机任务成功率。具体：</p>
 
-<p>**Genie Sim Benchmark：</p>
-
-<p>多维度、全方位覆盖机器人算法核心</p>
-
-<p>能力的仿真评测基准**</p>
-
-<p>针对机器人算法核心的五大能力——语言指令理解、空间关系认知、原子技能操作、环境扰动适应、零样本跨域迁移，Genie Sim Benchmark分别设计了</p>
-
-<p>五大任务套件</p>
-
-<p>，支持Genie Operator系列、π系列、GR00T系列等主流基座模型，多维度系统性评估模型在复杂场景下的综合表现。</p>
+<p><strong>真机强化学习算法：</strong></p>
 
 <ul>
   <li>
-    <p><strong>Instruction 指令跟随：</strong>检验模型对形状、大小、颜色、逻辑等自然语言指令的理解能力，检验语言与行为的对齐深度。</p>
+    <p>将</p>
+
+    <p><strong>DSRL</strong>（Diffusion Steering via Reinforcement Learning）扩展至 Pi0.5 模型。</p>
   </li>
   <li>
-    <p><strong>Spatial 空间理解：</strong>通过相对位置抓取、排序、叠放等任务，评估智能体在几何与语义交织中的空间智能。</p>
+    <p>新增 RECAP</p>
+
+    <p>（基于离线优势估计的策略优化）训练流水线支持。</p>
   </li>
   <li>
-    <p><strong>Manipulation 操作执行：</strong>衡量多场景下的多样化原子操作技能效果，并通过分层难度设计，检验长程任务中组合运用技能的执行水平。</p>
-  </li>
-  <li>
-    <p><strong>Robust 扰动适应：</strong>通过光照变化、背景替换、指令泛化、相机噪声、末端切换等十余类实际作业工况中可能出现的扰动，系统评估模型在物理世界中的适应边界与鲁棒性。</p>
-  </li>
-  <li>
-    <p><strong>Sim2Real 训以致用：</strong>包含一系列零样本真机迁移的评测任务，通过纯仿真数据训练的模型同样可以部署在真机上达到较高的任务成功率，验证模型的跨域迁移能力。</p>
+    <p>新增 SAC-Flow</p>
+
+    <p>算法支持，并扩展到 DOS-W1 等真机场景。</p>
   </li>
 </ul>
 
-<p><img src="/images/1/2.gif" alt=""></p>
-
-<p><img src="/images/1/3.gif" alt=""></p>
-
-<p><img src="/images/1/4.gif" alt=""></p>
-
-<p><img src="/images/1/5.gif" alt=""></p>
-
-<p><img src="/images/1/6.gif" alt=""></p>
-
-<p>Genie Sim Benchmark提供π系列和GR00T系列等开源基座模型在各个benchmark任务套件下的一键训练和评测功能，支持多种末端控制方式，快速绘制模型全景能力画像。</p>
-
-<p><img src="/images/1/7.png" alt=""></p>
-
-<p><img src="/images/1/8.png" alt=""></p>
-
-<p><img src="/images/1/9.png" alt=""></p>
-
-<p>Genie Sim Benchmark模型评分</p>
-
-<p>使用Genie Sim Benchmark仿真数据训练的模型可以实现零样本迁移到真实世界，并且相同模型在仿真环境与真实世界的评测差异&lt;10%，模型验证无需真机部署，显著提升算法迭代效率。</p>
-
-<p><img src="/images/1/10.png" alt=""></p>
-
-<p>Genie Sim-Sim2Real实验对比</p>
-
-<p><strong>03/</strong></p>
-
-<p><strong>Genie Sim x RLinf：</strong></p>
-
-<p>**全面支持RLinf框架，</p>
-
-<p>开启具身智能“强化”新时代**</p>
-
-<p>Genie Sim x RLinf 开源方案，提供一套“部署简单、迭代高效”的强化学习工具链。完美补齐 VLA 模型短板，用低成本的 RL 后训练，打通从”泛化理解”到”精准微操”的最后一公里。</p>
+<p><strong>仿真强化学习算法：</strong></p>
 
 <ul>
   <li>
-    <p><strong>双引擎联合+并行仿真：</strong>物理与渲染引擎解耦，实现1,000Hz高精度物理模拟与高保真实时视觉观测；通过大规模并行计算，显著提升吞吐量，加速模型收敛。</p>
+    <p><strong>Async PPO：</strong>在 v0.2 基础上扩展支持 MLP 等新策略，并新增 async DSRL 配置。</p>
   </li>
   <li>
-    <p><strong>开源任务 + 评测闭环：</strong>强化学习方案支持对Genie Sim开源任务在线微调，通过交互式学习解决模型瓶颈；同时依托Genie Sim评测框架，在评估表现的同时提供可靠奖励，驱动模型迭代。</p>
-  </li>
-  <li>
-    <p><strong>通用标准Gym接口：</strong>极简链路，生态无忧。提供标准API，无缝适配RLinf及社区其他算法环境，降低使用门槛，便于二次开发。</p>
+    <p>新增 D4RL 离线 IQL</p>
+
+    <p>训练支持（Antmaze / Kitchen-Adroit / MuJoCo，基于 FSDPStrategy）。</p>
   </li>
 </ul>
 
-<p>Genie Sim x RLinf 为强化学习打通了从高效训练到闭环评测的路径：并行仿真大幅提升采样效率，标准接口降低开发门槛，让模型在仿真中加速迭代。</p>
+<hr>
 
-<p><img src="/images/1/11.gif" alt=""></p>
+<p><strong>人在环学习：</strong></p>
 
-<p>Genie Sim x RLinf 并行训练</p>
+<ul>
+  <li>
+    <p>新增</p>
 
-<p>从海量仿真数据的开源共享，到大语言模型驱动的场景泛化，再到多维度评测体系的系统构建——</p>
+    <p><strong>DAgger</strong> 在线模仿学习算法支持（LIBERO、ManiSkill、RoboTwin、真机 PnP 多场景）。</p>
+  </li>
+  <li>
+    <p>新增 HG-DAgger</p>
 
-<p><strong>Genie Sim3.0 将“场景—数据—评测”融为一体，大规模仿真资产同步可在觅蜂商城获取，</strong><strong>让开发者不再受困于环境搭建与数据采集的繁琐投入。</strong></p>
+    <p>（Human-Gated DAgger）真机在线训练支持。</p>
+  </li>
+</ul>
 
-<p>具身智能的进化，需要一座连接虚拟与现实的高效桥梁，它发生在无数次快速构建的场景里，发生在源源不断生成的数据中，也发生在每一次精准、自动化的评测迭代里。智元 Genie Sim 3.0 所做的，是为机器人从仿真走向真实提供</p>
+<p><strong>03 真机支持：打通从数据采集到真机部署全链路闭环</strong></p>
 
-<p><strong>高效引擎</strong>。我们希望这不仅是一个仿真平台，更是一个</p>
+<p>新版全面打通数据采集 → SFT → RL → 真机部署的闭环链路，新增 3 种遥操作方式、3 款真机平台、2 款末端执行器，真机实操能力显著增强：</p>
 
-<p><strong>加速器</strong>，一个让机器人从 “缓慢研发”，走向 “快速落地” 的加速器。</p>
+<p><strong>数据采集支持：</strong></p>
 
-<p>我们相信，这套开源平台的开放与共享，将加速模型能力高效进化、迈向真实世界，成为通用机器人生态演进的重要一步。</p>
+<ul>
+  <li>
+    <p>新增</p>
+
+    <p><strong>空间鼠标（Spacemouse）</strong> 遥操作数据采集支持。</p>
+  </li>
+  <li>
+    <p>新增 VR 遥操作</p>
+
+    <p>数据采集支持。</p>
+  </li>
+  <li>
+    <p>新增 GELLO 遥操作</p>
+
+    <p>数据采集支持。</p>
+  </li>
+</ul>
+
+<hr>
+
+<p><strong>训练链路支持：</strong></p>
+
+<ul>
+  <li>
+    <p>新增</p>
+
+    <p><strong>LeRobot 格式数据采集</strong> 支持，便于与 HuggingFace LeRobot 生态互通。</p>
+  </li>
+  <li>
+    <p>新增 Pi0 真机 SFT 部署</p>
+
+    <p>支持，打通数据采集 → SFT → 真机部署链路。</p>
+  </li>
+  <li>
+    <p>新增 真机 reward model 数据采集</p>
+
+    <p>支持（采集带标注 reward 训练数据）。</p>
+  </li>
+</ul>
+
+<hr>
+
+<p><strong>真机平台与末端支持：</strong></p>
+
+<ul>
+  <li>
+    <p>新增</p>
+
+    <p><strong>双臂 Franka</strong> 平台支持（关节空间与 TCP/rot6d 控制、数据采集、SFT、部署）。</p>
+  </li>
+  <li>
+    <p>新增 GimArm</p>
+
+    <p>真机平台支持。</p>
+  </li>
+  <li>
+    <p>新增 DOS-W1</p>
+
+    <p>真机平台支持。</p>
+  </li>
+  <li>
+    <p>新增 Franka DexHand 灵巧手</p>
+
+    <p>末端执行器支持。</p>
+  </li>
+  <li>
+    <p>新增 Franka Robotiq</p>
+
+    <p>夹爪后端支持。</p>
+  </li>
+  <li>
+    <p>新增 Franka Robotiq 及 ZED / LUMOS V4L2</p>
+
+    <p>相机与夹爪后端支持。</p>
+  </li>
+</ul>
+
+<p><strong>04 仿真环境：场景覆盖更丰富</strong></p>
+
+<p>RLinf v0.3提升仿真强化学习的场景覆盖，新增 5 种仿真器，完善基于仿真器的训练示例与效果：</p>
+
+<ul>
+  <li>
+    <p>新增</p>
+
+    <p><strong>Genesis</strong> 仿真器支持。</p>
+  </li>
+  <li>
+    <p>新增</p>
+
+    <p><strong>Polaris</strong> 仿真器支持。</p>
+  </li>
+  <li>
+    <p>新增</p>
+
+    <p><strong>RoboVerse</strong> 仿真器支持。</p>
+  </li>
+  <li>
+    <p>完善</p>
+
+    <p><strong>Behavior</strong> 环境支持：新增 v3.7.1 / v3.7.2 版本补丁、π0.5 PPO 配置与 object/pose randomization。</p>
+  </li>
+  <li>
+    <p>新增</p>
+
+    <p><strong>Libero+ / LiberoPro</strong> 变体环境支持。</p>
+  </li>
+  <li>
+    <p>新增</p>
+
+    <p><strong>Embodichain（CartPole）</strong> 环境支持。</p>
+  </li>
+  <li>
+    <p>新增</p>
+
+    <p><strong>IsaacLab 上 π0.5 PPO finetuning</strong> 支持。</p>
+  </li>
+  <li>
+    <p>新增</p>
+
+    <p><strong>RoboCasa</strong> close-drawer 等 RL 示例支持。</p>
+  </li>
+</ul>
+
+<p><strong>05 系统基座：面向大规模训练持续强化底层能力</strong></p>
+
+<p>RLinf v0.3在系统层面新增多项重磅组件：</p>
+
+<ul>
+  <li>
+    <p>Reward Model组件：支持embodied reward worker + ResNet/VLM reward model。</p>
+  </li>
+  <li>
+    <p>Value Model组件：通用基础设施，支撑Pi0.6 RECAP等流水线。</p>
+  </li>
+  <li>
+    <p>SGLang推理服务化组件：HTTP server + router模式，可作为reward服务/rollout推理后端。</p>
+  </li>
+  <li>
+    <p>解耦环境执行组件：解除Env Worker与Rollout Worker一对一绑定，提升GPU利用率。</p>
+  </li>
+</ul>
+
+<p>性能优化方面，新增torch.compile加速、rollout与训练overlap、权重同步升级（broadcast/增量同步/分桶同步/仅同步可训练参数）、FSDP全offload支持，并修复了显存泄漏等关键问题。</p>
+
+<p>值得关注的是，RLinf v0.3全面支持昇腾Ascend（CANN/torch-npu）、AMD ROCm、Musa等国产及异构AI计算平台，真正做到跨机器人、跨模型、跨仿真器、跨计算硬件的统一训练能力。</p>
+
+<p><strong>06 One More Thing：RLinf for Agentic AI</strong></p>
+
+<p>RLinf v0.3为智能体 RL 场景提供了更强大的训练和评测基础：</p>
+
+<ul>
+  <li>
+    <p>新增</p>
+
+    <p><strong>AgentLightning 多轮单智能体 RL 训练</strong>与 Calc-X 评测支持。</p>
+  </li>
+  <li>
+    <p>新增</p>
+
+    <p><strong>Megatron-Bridge actor 后端</strong>支持（基于 Megatron-mbridge 模型的 RL 训练与 SFT）。</p>
+  </li>
+  <li>
+    <p>将</p>
+
+    <p><strong>SearchR1</strong> 重构为多轮接口，并新增 WideSeek judge 的内置 sglang 支持。</p>
+  </li>
+</ul>
+
+<p>RLinf 自开源以来，以开放共享为核心理念，迅速形成全球影响力。截至目前在 GitHub 已获得</p>
+
+<p><strong>4100+ Stars 、 600+ Forks、100+ Contributors</strong>，成为具身智能与大模型强化学习领域最受关注的基础设施项目之一。</p>
+
+<p>RLinf 已被 Isaac Lab 官方收录为其</p>
+
+<p><strong>首个面向具身大模型的训练引擎</strong>，体现了其在具身智能基础设施方向的国际技术引领能力。值得一提的是，RLinf团队与 NVIDIA 团队合作的医疗器械组装任务成功登上 NVIDIA GTC 2026，进一步验证了其全球技术影响力。</p>
+
+<p>此外，项目荣获 EAI-100年度十大突破奖，入选Pytorch Ecosystem、蚂蚁开源榜，代表其在具身智能基础设施领域的技术领先性与行业认可度。</p>
+
+<p>未来，RLinf将坚持开源路线，提升易用性，并携手社区同行持续贡献前沿算法。为了更好地与社区互动，RLinf团队也已经创建开发Roadmap（https://github.com/RLinf/RLinf/issues/1322），建立答疑群（https://raw.githubusercontent.com/RLinf/misc/refs/heads/main/pic/wechat.jpg），欢迎研究者们加入社区，共同开发！</p>
   </section>
 
   
@@ -628,16 +785,16 @@
   <span>
     
       <i class="icon fa-solid fa-angle-left"></i> Previous post<br>
-      <a href="/2026/03/26/post.html">
-        RLinf 入选具身智能 EAI-100 年度榜单十大突破项目
+      <a href="/2026/07/01/post.html">
+        RLinf上新STEAM算法
       </a>
     
   </span>
   <span>
     
       Next post <i class="icon fa-solid fa-angle-right"></i><br>
-      <a href="/2026/04/11/post.html">
-        第二十一届研电赛“无问芯穹”命题正式发布，新增具身智能强化学习赛题
+      <a href="/2026/07/16/post.html">
+        百度百舸率先适配 RLinf v0.3
       </a>
     
   </span>
