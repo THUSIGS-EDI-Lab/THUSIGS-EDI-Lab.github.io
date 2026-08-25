@@ -19,11 +19,11 @@ Our lab is currently recruiting **Master's students, Ph.D. students, joint-progr
 
 {% include button.html text="View all news →" link="news" %}
 
-## Talks
+## Outreach
 
-{% include list.html data="courses" component="post-excerpt" limit=5 %}
+{% include list.html data="courses" component="post-excerpt" filters="category: invited" limit=5 %}
 
-{% include button.html text="View all talks →" link="course" %}
+{% include button.html text="View all outreach →" link="course" %}
 
 # Sponsors
 

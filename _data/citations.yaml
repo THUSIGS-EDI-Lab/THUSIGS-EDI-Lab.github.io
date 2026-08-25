@@ -1,4 +1,121 @@
 - authors:
+  - Yixian Zhang
+  - Huanming Zhang
+  - Feng Gao
+  - Xiao Li
+  - Zhihao Liu
+  - Chunyang Zhu
+  - Jiaxing Qiu
+  - Yuchen Yan
+  - Jiyuan Liu
+  - Wenhao Tang
+  - Zhengru Fang
+  - Yi Nie
+  - Changxu Wei
+  - Yu Wang
+  - Wenbo Ding*
+  - Chao Yu*
+  date: '2026-07-01'
+  image: images/harnessvla.png
+  link: https://arxiv.org/abs/2607.08448
+  title: 'Harness VLA: Steering Frozen VLAs into Reliable Manipulation Primitives via Memory-Guided Agents'
+  mark: arxiv2026
+  publisher: arXiv preprint arXiv:2607.08448
+- authors:
+  - Xinye Yang
+  - Zhiyuan Ma
+  - Hongze Yu*
+  - Yuanpei Chen
+  - Yaodong Yang
+  - Xiaojie Chai
+  - Xinlei Chen
+  - Chao Yu*
+  date: '2026-07-01'
+  image: images/lamp.png
+  link: https://arxiv.org/abs/2607.06323
+  title: 'LAMP: Latent Motion Prior-Guided Real-World Learning for Dexterous Hand Manipulation'
+  mark: arxiv2026
+  publisher: arXiv preprint arXiv:2607.06323
+- authors:
+  - Zhihao Liu
+  - Qiuyi Gu
+  - Yitao Wang
+  - Dongming Qiao
+  - Yixian Zhang
+  - Shuaihang Chen
+  - Liangzhi Shi
+  - Tianxing Zhou
+  - Zefang Huang
+  - Kang Chen
+  - Zhen Guo
+  - Quanlu Zhang
+  - Jincheng Yu
+  - Xiaodan Liang
+  - Guoliang Fan
+  - Yu Wang
+  - Feng Gao
+  - Xinlei Chen*
+  - Chao Yu*
+  date: '2026-06-01'
+  image: images/steam.png
+  link: https://arxiv.org/abs/2606.29834
+  title: 'STEAM: Self-Supervised Temporal Ensemble Advantage Modeling for Real-World Robot Learning'
+  mark: arxiv2026
+  publisher: arXiv preprint arXiv:2606.29834
+- authors:
+  - Jialei Chen
+  - Kai Wang
+  - Kang Chen
+  - Shuaihang Chen
+  - Feng Gao
+  - Wenhao Tang
+  - Zhiyuan Li
+  - Weilin Liu
+  - Zhuyu Yao
+  - Boxun Li
+  - Yuanbo Xu*
+  - Chao Yu*
+  date: '2026-06-01'
+  image: images/lawam.png
+  link: https://arxiv.org/abs/2606.15768
+  title: 'LaWAM: Latent World Action Models for Efficient Dynamics-Aware Robot Policies'
+  mark: arxiv2026
+  publisher: arXiv preprint arXiv:2606.15768
+- authors:
+  - Huining Yuan
+  - Zelai Xu
+  - Huaijie Wang
+  - Xiangmin Yi
+  - Jiaxuan Gao
+  - Xiao-Ping Zhang
+  - Yu Wang*
+  - Chao Yu*
+  - Yi Wu*
+  date: '2026-05-01'
+  image: images/verify.png
+  link: https://arxiv.org/abs/2605.10325
+  title: Verifiable Process Rewards for Agentic Reasoning
+  mark: arxiv2026
+  publisher: arXiv preprint arXiv:2605.10325
+- authors:
+  - Yiran Shi
+  - Dongqi Guo
+  - Tianchen Zhao
+  - Feng Gao
+  - Liangzhi Shi
+  - Chao Yu
+  - Zhijian Mo
+  - Qihua Xiao
+  - Xiaoshuai Peng
+  - Qingmin Liao
+  - Yu Wang
+  date: '2026-03-01'
+  image: images/streaming.png
+  link: https://arxiv.org/abs/2603.28565
+  title: 'StreamingVLA: Streaming Vision-Language-Action Model with Action Flow Matching and Adaptive Early Observation'
+  mark: arxiv2026
+  publisher: arXiv preprint arXiv:2603.28565
+- authors:
   -  Jiayu Chen
   - Chao Yu
   - Yuqing Xie
