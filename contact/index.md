@@ -76,4 +76,5 @@ nav:
 ## 联系方式
 
 - {% include icon.html icon="fa-solid fa-envelope" %} **邮箱**：[yuchao@sz.tsinghua.edu.cn](mailto:yuchao@sz.tsinghua.edu.cn)
+- {% include icon.html icon="fa-solid fa-envelope" %} **招生邮箱**：[edilab_hire@163.com](mailto:edilab_hire@163.com)
 - {% include icon.html icon="fa-solid fa-location-dot" %} **地址**：深圳市南山区西丽大学城清华园区
