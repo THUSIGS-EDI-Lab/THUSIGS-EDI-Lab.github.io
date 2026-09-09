@@ -6,12 +6,6 @@ nav:
 
 # {% include icon.html icon="fas fa-users" %}Hosted Workshop
 
-## The 2nd Human-aware Embodied AI Workshop (HEAI 2026) @ IROS 2026
-
-*2026.09.27 - 2026.10.01*
-
-[让具身智能真正理解人、适应人](https://mp.weixin.qq.com/s/cX0L_T3cyI32HriZunk8XA)
-
 ## 具身智能规模化探索论坛 @ 2026 世界机器人大会
 
 *2026.08.22*
