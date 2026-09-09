@@ -76,5 +76,4 @@ nav:
 ## 联系方式
 
 - {% include icon.html icon="fa-solid fa-envelope" %} **邮箱**：[yuchao@sz.tsinghua.edu.cn](mailto:yuchao@sz.tsinghua.edu.cn)
-- {% include icon.html icon="fa-brands fa-github" %} **GitHub**：[github.com/THUSIGS-EDI-Lab](https://github.com/THUSIGS-EDI-Lab)
 - {% include icon.html icon="fa-solid fa-location-dot" %} **地址**：深圳市南山区西丽大学城清华园区
