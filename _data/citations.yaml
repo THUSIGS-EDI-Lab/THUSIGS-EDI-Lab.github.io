@@ -20,7 +20,7 @@
   link: https://arxiv.org/abs/2607.08448
   title: 'Harness VLA: Steering Frozen VLAs into Reliable Manipulation Primitives via Memory-Guided Agents'
   mark: arxiv2026
-  publisher: arXiv preprint arXiv:2607.08448
+  publisher: arXiv preprint arXiv:2607.08448 (2026)
 - authors:
   - Xinye Yang
   - Zhiyuan Ma
@@ -35,7 +35,7 @@
   link: https://arxiv.org/abs/2607.06323
   title: 'LAMP: Latent Motion Prior-Guided Real-World Learning for Dexterous Hand Manipulation'
   mark: arxiv2026
-  publisher: arXiv preprint arXiv:2607.06323
+  publisher: arXiv preprint arXiv:2607.06323 (2026)
 - authors:
   - Zhihao Liu
   - Qiuyi Gu
@@ -61,7 +61,7 @@
   link: https://arxiv.org/abs/2606.29834
   title: 'STEAM: Self-Supervised Temporal Ensemble Advantage Modeling for Real-World Robot Learning'
   mark: arxiv2026
-  publisher: arXiv preprint arXiv:2606.29834
+  publisher: arXiv preprint arXiv:2606.29834 (2026)
 - authors:
   - Jialei Chen
   - Kai Wang
@@ -80,7 +80,7 @@
   link: https://arxiv.org/abs/2606.15768
   title: 'LaWAM: Latent World Action Models for Efficient Dynamics-Aware Robot Policies'
   mark: arxiv2026
-  publisher: arXiv preprint arXiv:2606.15768
+  publisher: Conference on Robot Learning (CoRL 2026)
 - authors:
   - Huining Yuan
   - Zelai Xu
@@ -96,7 +96,7 @@
   link: https://arxiv.org/abs/2605.10325
   title: Verifiable Process Rewards for Agentic Reasoning
   mark: arxiv2026
-  publisher: arXiv preprint arXiv:2605.10325
+  publisher: arXiv preprint arXiv:2605.10325 (2026)
 - authors:
   - Yiran Shi
   - Dongqi Guo
@@ -114,7 +114,7 @@
   link: https://arxiv.org/abs/2603.28565
   title: 'StreamingVLA: Streaming Vision-Language-Action Model with Action Flow Matching and Adaptive Early Observation'
   mark: arxiv2026
-  publisher: arXiv preprint arXiv:2603.28565
+  publisher: arXiv preprint arXiv:2603.28565 (2026)
 - authors:
   -  Jiayu Chen
   - Chao Yu
@@ -128,12 +128,12 @@
   - Yi Wu
   - Huazhong Yang
   - Yu Wang
-  date: '2026-10-01'
+  date: '2025-10-01'
   image: images/traj.png
   link: https://ieeexplore.ieee.org/document/11017653
   title: 'What Matters in Learning A Zero-Shot Sim-to-Real RL Policy for Quadrotor Control? A Comprehensive Study'
   mark: ral2025
-  publisher: IEEE Robotics and Automation Letters (RAL), IEEE, 2025
+  publisher: IEEE Robotics and Automation Letters (RA-L 2025)
 - authors:
   - Tianxing Zhou
   - Haojia Ao
@@ -148,7 +148,7 @@
   link: https://ieeexplore.ieee.org/document/11543318
   title: 'Human-Guided Online Reward Adaptation for Real-Robot Arm Manipulation'
   mark: ral2026
-  publisher: IEEE Robotics and Automation Letters (RAL), IEEE, 2026
+  publisher: IEEE Robotics and Automation Letters (RA-L 2026)
 - authors:
   - Chao Yu
   - Qixin Tan
@@ -163,7 +163,7 @@
   link: https://arxiv.org/abs/2410.17233
   title: 'ICPL: Few-shot In-Context Preference Learning via LLMs'
   mark: rlc2024
-  publisher: RLC 2026
+  publisher: Reinforcement Learning Conference (RLC 2026)
 - authors:
   - Yuanqing Wang
   - Hao Lin
@@ -186,7 +186,7 @@
   link: https://www.usenix.org/conference/osdi26/presentation/wang-yuanqing
   title: 'DynaRL: Flexible and Dynamic Scheduling of Large-scale Reinforcement Learning Training'
   mark: osdi2026
-  publisher: USENIX Symposium on Operating Systems Design and Implementation (OSDI 2026)
+  publisher: 20th USENIX Symposium on Operating Systems Design and Implementation (OSDI 2026)
 - authors:
   - Jiawei Chen
   - Simin Huang
@@ -201,7 +201,7 @@
   link: https://arxiv.org/abs/2604.01618
   title: 'Tex3D: Objects as Attack Surfaces via Adversarial 3D Textures for Vision-Language-Action Models'
   mark: mm2026
-  publisher: ACM International Conference on Multimedia (MM), ACM, 2026
+  publisher: ACM International Conference on Multimedia (ACM MM 2026)
 - authors:
   - Zhennan Jiang
   - Shangqing Zhou
@@ -222,7 +222,7 @@
   link: https://arxiv.org/abs/2602.13977
   title: 'WoVR: World Models as Reliable Simulators for Post-Training VLA Policies with RL'
   mark: arxiv2026
-  publisher: arXiv preprint arXiv:2602.13977
+  publisher: Conference on Robot Learning (CoRL 2026)
 - authors:
   - Liangzhi Shi
   - Sheng Chen
@@ -239,7 +239,7 @@
   link: https://arxiv.org/abs/2602.12628
   title: 'Beyond Imitation: Reinforcement Learning-Based Sim-Real Co-Training for VLA Models'
   mark: arxiv2026
-  publisher: arXiv preprint arXiv:2602.12628
+  publisher: Conference on Robot Learning (CoRL 2026)
 - authors:
   - Hongzhi Zang
   - Shu'ang Yu
@@ -263,7 +263,7 @@
   link: https://arxiv.org/abs/2602.07837
   title: 'USER: A Unified and Extensible System for Real-World Online Policy Learning in Embodied AI'
   mark:  RSS 2026
-  publisher: RSS 2026
+  publisher: 'Robotics: Science and Systems (RSS 2026)'
 - authors:
   - Zelai Xu
   - Zhexuan Xu
@@ -280,7 +280,7 @@
   link: https://arxiv.org/abs/2602.04634
   title: 'WideSeek-R1: Exploring Width Scaling for Broad Information Seeking via Multi-Agent Reinforcement Learning'
   mark: preprint2026
-  publisher: Preprint (2026)
+  publisher: arXiv preprint (2026)
 - authors:
   - Yinzhou Tang
   - Yu Shang
@@ -293,12 +293,12 @@
   - Chen Gao
   - Wei Wu
   - Yong Li
-  date: '2025-01-01'
+  date: '2026-01-01'
   image: images/roboscape.png
   link: https://arxiv.org/abs/2512.03556
   title: 'RoboScape-R: Unified Reward-Observation World Models for Generalizable Robotics Training via RL'
   mark: cvpr2026
-  publisher: Conference on Computer Vision and Pattern Recognition (CVPR) Findings, IEEE, 2026
+  publisher: IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2026), Findings
 - authors:
   - Jiawei Chen
   - Yang Yang
@@ -314,7 +314,7 @@
   link: https://arxiv.org/abs/2512.00412
   title: Red Teaming Large Reasoning Models
   mark: preprint2025
-  publisher: Preprint (2025)
+  publisher: Annual Meeting of the Association for Computational Linguistics (ACL 2025)
 - authors:
   - Kang Chen
   - Zhihao Liu
@@ -337,7 +337,7 @@
   link: https://arxiv.org/abs/2510.25889
   title: 'πRL: Online RL Fine-tuning for Flow-based Vision-Language-Action Models'
   mark: preprint2025
-  publisher: Preprint (2025)
+  publisher: arXiv preprint arXiv:2510.25889 (2025)
 - authors:
   - Yutao Ouyang
   - Jinhan Li
@@ -371,7 +371,7 @@
   link: https://arxiv.org/abs/2510.15414
   title: 'MARSHAL: Incentivizing Multi-Agent Reasoning via Self-Play with Strategic LLMs'
   mark: iclr2026
-  publisher: The Fourteenth International Conference on Learning Representations (ICLR 2026)
+  publisher: International Conference on Learning Representations (ICLR 2026)
 - authors:
   - Hongzhi Zang
   - Mingjie Wei
@@ -390,12 +390,12 @@
   - Weinan Zhang
   - Chao Yu*
   - Yu Wang*
-  date: '2025-01-01'
+  date: '2026-01-01'
   image: images/rlinfvla.png
   link: https://arxiv.org/abs/2510.06710
   title: 'RLinf-VLA: A Unified and Efficient Framework for VLA+RL Training'
   mark: RSS 2026
-  publisher: RSS 2026
+  publisher: 'Robotics: Science and Systems (RSS 2026)'
 - authors:
   - Yixian Zhang
   - Shu'ang Yu
@@ -411,7 +411,7 @@
   link: https://arxiv.org/abs/2509.25756
   title: 'SAC Flow: Sample-Efficient Reinforcement Learning of Flow-Based Policies via Velocity-Reparameterized Sequential Modeling'
   mark: iclr2026
-  publisher: ICLR 2026
+  publisher: International Conference on Learning Representations (ICLR 2026)
 - authors:
   - Xiaoyang Cao
   - Zelai Xu
@@ -425,7 +425,7 @@
   link: https://arxiv.org/abs/2509.24159
   title: 'RE-PO: Robust Enhanced Policy Optimization as a General Framework for LLM Alignment'
   mark: iclr2026
-  publisher: The Fourteenth International Conference on Learning Representations (ICLR 2026)
+  publisher: International Conference on Learning Representations (ICLR 2026)
 - authors:
   - Shilong Ji
   - Yinuo Chen
@@ -439,12 +439,12 @@
   - Xinlei Chen
   - Chao Yu
   - Yu Wang
-  date: '2025-01-01'
+  date: '2026-01-01'
   image: images/jugglerl.png
   link: https://arxiv.org/abs/2509.24892
   title: 'JuggleRL: Mastering Ball Juggling with a Quadrotor via Deep Reinforcement Learning'
   mark: arxiv2025
-  publisher: arXiv preprint arXiv:2509.24892
+  publisher: IEEE International Conference on Robotics and Automation (ICRA 2026)
 - authors:
   - Zhennan Jiang
   - Kai Liu
@@ -455,12 +455,12 @@
   - Chao Yu
   - Haoran Li
   - Dongbin Zhao
-  date: '2025-01-01'
+  date: '2026-01-01'
   image: images/world4rl.png
   link: https://arxiv.org/abs/2509.19080
   title: 'World4RL: Diffusion World Models for Policy Refinement with Reinforcement Learning for Robotic Manipulation'
   mark: RAL2026
-  publisher: IEEE Robotics and Automation Letters (RAL 2026)
+  publisher: IEEE Robotics and Automation Letters (RA-L 2026)
 - authors:
   - Chao Yu
   - Yuanqing Wang
@@ -491,24 +491,24 @@
   - Zhi Yang
   - Guohao Dai*
   - Yu Wang*
-  date: '2025-01-01'
+  date: '2026-01-01'
   image: images/rlinf.png
   link: https://arxiv.org/abs/2509.15965
   title: 'RLinf: Flexible and Efficient Large-scale Reinforcement Learning via Macro-to-Micro Flow Transformation'
   mark: OSDI 2026
-  publisher: USENIX Symposium on Operating Systems Design and Implementation (OSDI 2026)
+  publisher: 20th USENIX Symposium on Operating Systems Design and Implementation (OSDI 2026)
 - authors:
   - Shu-Ang Yu
   - Feng Gao
   - Yi Wu
   - Chao Yu
   - Yu Wang
-  date: '2025-01-01'
+  date: '2026-01-01'
   image: images/d3p.png
   link: https://arxiv.org/abs/2508.06804
   title: 'D3P: Dynamic Denoising Diffusion Policy via Reinforcement Learning'
   mark: arxiv2025
-  publisher: arXiv preprint arXiv:2508.06804 (2025)
+  publisher: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2026)
 - authors:
   - Songsheng Wang
   - Rucheng Yu
@@ -522,7 +522,7 @@
   link: https://arxiv.org/abs/2507.22424
   title: 'Spec-VLA: Speculative Decoding for Vision-Language-Action Models with Relaxed Acceptance'
   mark: emnlp2025
-  publisher: EMNLP 2025 Main Conference
+  publisher: Conference on Empirical Methods in Natural Language Processing (EMNLP 2025), Main Conference
 - authors:
   - Jiayu Chen
   - Chao Yu
@@ -538,7 +538,7 @@
   link: https://arxiv.org/abs/2409.15866
   title: Online Planning for Multi-UAV Pursuit-Evasion in Unknown Environments Using Deep Reinforcement Learning
   mark: ral2025
-  publisher: IEEE Robotics and Automation Letters (2025)
+  publisher: IEEE Robotics and Automation Letters (RA-L 2025)
 - authors:
   - Jiawei Chen
   - Zhengwei Fang
@@ -546,12 +546,12 @@
   - Chao Yu
   - Zhaoxia Yin
   - Hang Su
-  date: '2025-01-01'
+  date: '2026-01-01'
   image: images/risks.png
   link: https://arxiv.org/abs/2506.12382
   title: Exploring the Secondary Risks of Large Language Models
   mark: arxiv2025
-  publisher: arXiv preprint arXiv:2506.12382
+  publisher: Machine Intelligence Research (MIR 2026)
 - authors:
   - Zelai Xu
   - Zhexuan Xu
@@ -566,7 +566,7 @@
   link: https://arxiv.org/abs/2506.02387
   title: 'VS-Bench: Evaluating VLMs for Strategic Reasoning and Decision-Making in Multi-Agent Environments'
   mark: cvpr2026
-  publisher: IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Oral, 2026
+  publisher: IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2026), Oral
 - authors:
   - Jijia Liu
   - Feng Gao
@@ -581,7 +581,7 @@
   link: https://arxiv.org/abs/2505.19789
   title: What Can RL Bring to VLA Generalization? An Empirical Study
   mark: neurips2025
-  publisher: NeurIPS 2025
+  publisher: Annual Conference on Neural Information Processing Systems (NeurIPS 2025)
 - authors:
   - Tonghe Zhang
   - Chao Yu
@@ -592,7 +592,7 @@
   link: https://papers.nips.cc/
   title: 'ReinFlow: Fine-tuning Flow Matching Policy with Online Reinforcement Learning'
   mark: neurips2025
-  publisher: NeurIPS 2025
+  publisher: Annual Conference on Neural Information Processing Systems (NeurIPS 2025)
 - authors:
   - Zhi Su
   - Yuman Gao
@@ -622,7 +622,7 @@
   link: https://arxiv.org/abs/2505.10482
   title: Fine-tuning Diffusion Policies with Backpropagation Through Diffusion Timesteps
   mark: preprint2025
-  publisher: Preprint (2025)
+  publisher: arXiv preprint arXiv:2505.10482 (2025)
 - authors:
   - Ruize Zhang
   - Sirui Xiang
@@ -638,7 +638,7 @@
   link: https://arxiv.org/abs/2505.04317
   title: Mastering Multi-Drone Volleyball through Hierarchical Co-Self-Play Reinforcement Learning
   mark: corl2025
-  publisher: 9th Conference on Robot Learning (CoRL 2025), Seoul, Korea
+  publisher: Conference on Robot Learning (CoRL 2025)
 - authors:
   - Zongyuan Chen
   - Yan Xia
@@ -658,7 +658,7 @@
   link: https://arxiv.org/abs/2504.13582
   title: Hysteresis-Aware Neural Network Modeling and Whole-Body Reinforcement Learning Control of Soft Robots
   mark: ral2025
-  publisher: IEEE Robotics and Automation Letters (RAL), IEEE, 2025
+  publisher: IEEE Robotics and Automation Letters (RA-L 2025)
 - authors:
   - Le Qiu
   - Zelai Xu
@@ -671,7 +671,7 @@
   link: https://arxiv.org/abs/2503.20804
   title: 'AED: Automatic Discovery of Effective and Diverse Vulnerabilities for Autonomous Driving Policy with Large Language Models'
   mark: case2026
-  publisher: International Conference on Automation Science and Engineering (CASE), 2026
+  publisher: IEEE International Conference on Automation Science and Engineering (CASE 2026)
 - authors:
   - Chuqi Wang
   - Chao Yu
@@ -694,7 +694,7 @@
   link: https://arxiv.org/abs/2503.07278
   title: 'Multi-Robot System for Cooperative Exploration in Unknown Environments: A Survey'
   mark: survey2025
-  publisher: Survey Paper (2025)
+  publisher: arXiv preprint arXiv:2503.07278 (2025)
 - authors:
   - Xinyi Yang
   - Liang Zeng
@@ -710,7 +710,7 @@
   link: https://arxiv.org/abs/2502.12530
   title: 'Translate Policy to Language: Flow Matching Generated Rewards for LLM Explanations'
   mark: iclr2026
-  publisher: The Fourteenth International Conference on Learning Representations (ICLR 2026)
+  publisher: International Conference on Learning Representations (ICLR 2026)
 - authors:
   - Zelai Xu
   - Wanjun Gu
@@ -722,7 +722,7 @@
   link: https://arxiv.org/abs/2502.04686
   title: Learning Strategic Language Agents in the Werewolf Game with Iterative Latent Space Policy Optimization
   mark: icml2025
-  publisher: Proceedings of the 42nd International Conference on Machine Learning (ICML 2025)
+  publisher: International Conference on Machine Learning (ICML 2025)
 - authors:
   - Zelai Xu
   - Ruize Zhang
@@ -741,7 +741,7 @@
   link: https://arxiv.org/abs/2502.01932
   title: 'VolleyBots: A Testbed for Multi-Drone Volleyball Game Combining Motion Control and Strategic Play'
   mark: neurips2025
-  publisher: The Thirty-ninth Conference on Neural Information Processing Systems (NeurIPS 2025), Track on Datasets and Benchmarks
+  publisher: Annual Conference on Neural Information Processing Systems (NeurIPS 2025)
 - authors:
   - Jijia Liu
   - Feng Gao
@@ -753,7 +753,7 @@
   link: https://arxiv.org/abs/2502.00288
   title: Learning from Suboptimal Data in Continuous Control via Auto-Regressive Soft Q-Network
   mark: icml2025
-  publisher: Proceedings of the 42nd International Conference on Machine Learning (ICML 2025)
+  publisher: International Conference on Machine Learning (ICML 2025)
 - authors:
   - Zelai Xu
   - Chao Yu
@@ -765,7 +765,7 @@
   link: http://www.jmlr.org/papers/v26/24-1503.html
   title: Learning Global Nash Equilibrium in Team Competitive Games with Generalized Fictitious Cross-Play
   mark: journal2025
-  publisher: Journal of Machine Learning Research, 26 (2025), 1–30
+  publisher: Journal of Machine Learning Research (JMLR 2025), Volume 26
 - authors:
   - Shuzhen Li
   - Yuxin Chen
@@ -785,7 +785,7 @@
   link: https://dl.acm.org/doi/10.1145/3699743
   title: 'SleepNetZero: Zero-Burden Zero-Shot Reliable Sleep Staging with Neural Networks Based on Ballistocardiograms'
   mark: pacmimwut2024
-  publisher: Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (PACM IMWUT 2024)
+  publisher: ACM International Conference on Ubiquitous Computing (UbiComp 2024)
 - authors:
   - Feng Gao
   - Chao Yu
@@ -840,7 +840,7 @@
   link: https://arxiv.org/abs/2409.15360
   title: Reward-Robust RLHF in LLMs
   mark: preprint2024
-  publisher: Preprint (2024)
+  publisher: arXiv preprint arXiv:2409.15360 (2024)
 - authors:
   - Ruize Zhang
   - Zelai Xu
@@ -858,7 +858,7 @@
   link: https://arxiv.org/abs/2408.01072
   title: A Survey on Self-Play Methods in Reinforcement Learning
   mark: preprint2024
-  publisher: Preprint (2024)
+  publisher: arXiv preprint arXiv:2408.01072 (2024)
 - authors:
   - Shu-Ang Yu
   - Chao Yu
@@ -880,12 +880,12 @@
   - Yong Li
   - Yu Wang
   - Huazhong Yang
-  date: '2024-01-01'
+  date: '2025-01-01'
   image: images/citylight.png
   link: https://arxiv.org/abs/2406.02126
   title: 'CityLight: A Universal Model Towards Real-world City-scale Traffic Signal Control Coordination'
   mark: preprint2024
-  publisher: Preprint (2024)
+  publisher: ACM International Conference on Information and Knowledge Management (CIKM 2025)
 - authors:
   - Shusheng Xu
   - Huaijie Wang
@@ -915,7 +915,7 @@
   link: https://arxiv.org/abs/2404.10719
   title: Is DPO Superior to PPO for LLM Alignment? A Comprehensive Study
   mark: icml2024
-  publisher: Proceedings of the 41st International Conference on Machine Learning (ICML 2024)
+  publisher: International Conference on Machine Learning (ICML 2024), Oral
 - authors:
   - Jiayu Chen
   - Zelai Xu
@@ -931,7 +931,7 @@
   link: https://ojs.aaai.org/index.php/AAAI/article/view/29011
   title: Accelerate Multi-Agent Reinforcement Learning in Zero-Sum Games with Subgame Curriculum Learning
   mark: aaai2024
-  publisher: Proceedings of the AAAI Conference on Artificial Intelligence (AAAI 2024)
+  publisher: AAAI Conference on Artificial Intelligence (AAAI 2024)
 - authors:
   - Botian Xu
   - Feng Gao
@@ -944,7 +944,7 @@
   link: https://arxiv.org/abs/2309.12825
   title: 'OmniDrones: An Efficient and Flexible Platform for Reinforcement Learning in Drone Control'
   mark: ral2024
-  publisher: 'IEEE Robotics and Automation Letters, 9(3): 2838–2844 (2024)'
+  publisher: IEEE Robotics and Automation Letters (RA-L 2024)
 - authors:
   - Jiaxuan Gao
   - Yule Wen
@@ -955,7 +955,7 @@
   link: https://openreview.net/pdf?id=PvQj49LzJW
   title: Sharing Minds during MARL Training for Enhanced Cooperative LLM Agents
   mark: neurips2024
-  publisher: The Thirty-eighth Conference on Neural Information Processing Systems (NeurIPS 2024)
+  publisher: Annual Conference on Neural Information Processing Systems (NeurIPS 2024)
 - authors:
   - Chao Yu
   - Hong Lu
@@ -970,7 +970,7 @@
   link: https://openreview.net/forum?id=w9tS6NRmxX
   title: Few-shot In-context Preference Learning using Large Language Models
   mark: iclr2025
-  publisher: The Thirteenth International Conference on Learning Representations (ICLR 2025)
+  publisher: International Conference on Learning Representations (ICLR 2025)
 - authors:
   - Jijia Liu
   - Chao Yu
@@ -984,7 +984,7 @@
   link: https://arxiv.org/abs/2312.15224
   title: LLM-Powered Hierarchical Language Agent for Real-time Human-AI Coordination
   mark: aamas2024
-  publisher: Proc. of the 23rd International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2024)
+  publisher: International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2024)
 - authors:
   - Xinyi Yang
   - Xinting Yang
@@ -1013,7 +1013,7 @@
   link: https://arxiv.org/abs/2311.00252
   title: Active Neural Topological Mapping for Multi-Agent Exploration
   mark: preprint2023
-  publisher: Preprint (2023)
+  publisher: IEEE Robotics and Automation Letters (RA-L 2023)
 - authors:
   - Zelai Xu
   - Chao Yu
@@ -1025,7 +1025,7 @@
   link: https://arxiv.org/abs/2310.18940
   title: Language Agents with Reinforcement Learning for Strategic Play in the Werewolf Game
   mark: icml2024
-  publisher: Proceedings of the 41st International Conference on Machine Learning (ICML 2024)
+  publisher: International Conference on Machine Learning (ICML 2024)
 - authors:
   - Zelai Xu
   - Yancheng Liang
@@ -1037,7 +1037,7 @@
   link: https://arxiv.org/abs/2310.03354
   title: 'Fictitious Cross-Play: Learning Global Nash Equilibrium in Mixed Cooperative-Competitive Games'
   mark: aamas2023
-  publisher: Proceedings of the 22nd International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2023)
+  publisher: International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2023)
 - authors:
   - Weihua Du
   - Jinglun Zhao
@@ -1054,7 +1054,7 @@
   link: https://arxiv.org/abs/2306.15182
   title: Automatic Truss Design with Reinforcement Learning
   mark: ijcai2023
-  publisher: IJCAI 2023
+  publisher: International Joint Conference on Artificial Intelligence (IJCAI 2023)
 - authors:
   - Chao Yu
   - Jiaxuan Gao
@@ -1069,7 +1069,7 @@
   link: https://arxiv.org/abs/2302.01605
   title: Learning Zero-Shot Cooperation with Humans, Assuming Humans Are Biased
   mark: iclr2023
-  publisher: The Eleventh International Conference on Learning Representations (ICLR 2023)
+  publisher: International Conference on Learning Representations (ICLR 2023)
 - authors:
   - Chao Yu
   - Xinyi Yang
@@ -1087,7 +1087,7 @@
   link: https://arxiv.org/abs/2301.03398
   title: Asynchronous Multi-Agent Reinforcement Learning for Efficient Real-Time Multi-Robot Cooperative Exploration
   mark: aamas2023
-  publisher: Proceedings of the 22nd International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2023)
+  publisher: International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2023)
 - authors:
   - Xinyi Yang
   - Shiyu Huang
@@ -1102,7 +1102,7 @@
   link: https://arxiv.org/abs/2302.04094
   title: Learning Graph-Enhanced Commander-Executor for Multi-Agent Navigation
   mark: aamas2023
-  publisher: Proceedings of the 22nd International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2023)
+  publisher: International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2023)
 - authors:
   - Chao Yu
   - Akash Velu
@@ -1116,7 +1116,7 @@
   link: https://proceedings.neurips.cc/paper_files/paper/2022/hash/9c1535a02f0ce079433344e14d910597-Abstract-Datasets_and_Benchmarks.html
   title: The Surprising Effectiveness of PPO in Cooperative Multi-Agent Games
   mark: neurips2022
-  publisher: The Thirty-sixth Conference on Neural Information Processing Systems (NeurIPS 2022), Track on Datasets and Benchmarks
+  publisher: Conference on Neural Information Processing Systems (NeurIPS 2022), Datasets and Benchmarks Track
 - authors:
   - Xuan Du
   - Xinyi Yang
@@ -1181,7 +1181,7 @@
   link: https://arxiv.org/abs/2206.07505
   title: Revisiting Some Common Practices in Cooperative Multi-Agent Reinforcement Learning
   mark: icml2022
-  publisher: Proceedings of the 39th International Conference on Machine Learning (ICML 2022)
+  publisher: International Conference on Machine Learning (ICML 2022)
 - authors:
   - Weilin Liu
   - Ye Mu
@@ -1192,12 +1192,12 @@
   - Shuang Liang
   - Huazhong Yang
   - Yu Wang
-  date: '2021-01-01'
+  date: '2024-01-01'
   image: images/vulner.png
   link: https://arxiv.org/abs/2112.06185
   title: Multi-Agent Vulnerability Discovery for Autonomous Driving with Hazard Arbitration Reward
   mark: preprint2021
-  publisher: Preprint (2021)
+  publisher: IEEE International Conference on Automation Science and Engineering (CASE 2024)
 - authors:
   - Wei Fu
   - Chao Yu
@@ -1208,7 +1208,7 @@
   link: https://nicsefc.ee.tsinghua.edu.cn/nics_file/pdf/698728b2-2b03-4ec2-98be-d675dbb2779b.pdf
   title: Unlocking the Potential of MAPPO with Asynchronous Optimization
   mark: caai2021
-  publisher: CAAI International Conference on Artificial Intelligence (2021)
+  publisher: CAAI International Conference on Artificial Intelligence (CICAI 2021)
 - authors:
   - Zhenggang Tang
   - Chao Yu
@@ -1224,7 +1224,7 @@
   link: https://arxiv.org/abs/2103.04564
   title: Discovering Diverse Multi-Agent Strategic Behavior via Reward Randomization
   mark: iclr2021
-  publisher: The Ninth International Conference on Learning Representations (ICLR 2021)
+  publisher: International Conference on Learning Representations (ICLR 2021)
 - authors:
   - Jincheng Yu
   - Zhilin Xu
@@ -1241,7 +1241,7 @@
   link: https://nicsefc.ee.tsinghua.edu.cn/nics_file/pdf/publications/2020/DAC20_299_2gfq3TE.pdf
   title: 'INCA: INterruptible CNN Accelerator for Multi-tasking in Embedded Robots'
   mark: dac2020
-  publisher: 57th ACM/IEEE Design Automation Conference (DAC 2020)
+  publisher: ACM/IEEE Design Automation Conference (DAC 2020)
 - authors:
   - Jincheng Yu
   - Feng Gao
@@ -1256,7 +1256,7 @@
   link: https://nicsefc.ee.tsinghua.edu.cn/nics_file/pdf/publications/2020/RAW20_308.pdf
   title: CNN-based Monocular Decentralized SLAM on Embedded FPGA
   mark: ipdpsw2020
-  publisher: IEEE International Parallel and Distributed Processing Symposium Workshops (IPDPSW 2020)
+  publisher: IEEE Reconfigurable Architectures Workshop (RAW 2020)
 - authors:
   - Zhilin Xu
   - Jincheng Yu
@@ -1269,7 +1269,7 @@
   link: https://nicsefc.ee.tsinghua.edu.cn/nics_file/pdf/publications/2020/FCCM20_303.pdf
   title: CNN-based Feature-point Extraction for Real-time Visual SLAM on Embedded FPGA
   mark: fccm2020
-  publisher: IEEE 28th Annual International Symposium on Field-Programmable Custom Computing Machines (FCCM 2020)
+  publisher: IEEE Symposium on Field-Programmable Custom Computing Machines (FCCM 2020)
 - authors:
   - Bo Xiong
   - Fangshi Wang
@@ -1283,7 +1283,7 @@
   link: https://dl.acm.org/doi/10.1145/3387304.3387320
   title: Long-Sighted Imitation Learning for Partially Observable Control
   mark: iccrt2019
-  publisher: Proceedings of the 2019 2nd International Conference on Control and Robot Technology (ICCRT 2019)
+  publisher: International Conference on Control and Robot Technology (ICCRT 2019)
 - authors:
   - Chao Yu
   - Zuxin Liu
@@ -1298,7 +1298,7 @@
   link: https://doi.org/10.1109/ROBIO49542.2019.8961714
   title: A DenseNet Feature-based Loop Closure Method for Visual SLAM System
   mark: robio2019
-  publisher: 2019 IEEE International Conference on Robotics and Biomimetics (ROBIO 2019)
+  publisher: IEEE International Conference on Robotics and Biomimetics (ROBIO 2019)
 - authors:
   - Bo Xiong
   - Fangshi Wang

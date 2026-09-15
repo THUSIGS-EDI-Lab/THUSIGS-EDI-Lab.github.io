@@ -11,7 +11,7 @@
   link: 'https://proceedings.neurips.cc/paper_files/paper/2022/hash/9c1535a02f0ce079433344e14d910597-Abstract-Datasets_and_Benchmarks.html'
   title: 'The Surprising Effectiveness of PPO in Cooperative Multi-Agent Games'
   mark: neurips2022
-  publisher: Proceedings of NeurIPS
+  publisher: Conference on Neural Information Processing Systems (NeurIPS 2022), Datasets and Benchmarks Track
 
 - authors:
     - Shusheng Xu
@@ -28,7 +28,7 @@
   link: 'https://arxiv.org/abs/2404.10719'
   title: 'Is DPO Superior to PPO for LLM Alignment? A Comprehensive Study'
   mark: icml2024
-  publisher: Proceedings of ICML
+  publisher: International Conference on Machine Learning (ICML 2024), Oral
 
 - authors:
     - Zelai Xu
@@ -41,7 +41,7 @@
   link: 'https://arxiv.org/abs/2310.18940'
   title: 'Language Agents with Reinforcement Learning for Strategic Play in the Werewolf Game'
   mark: icml2024
-  publisher: Proceedings of ICML
+  publisher: International Conference on Machine Learning (ICML 2024)
 
 - authors:
     - Hongzhi Zang
@@ -61,12 +61,12 @@
     - Weinan Zhang
     - Chao Yu*
     - Yu Wang*
-  date: '2025-01-01'
+  date: '2026-01-01'
   image: images/rlinfvla.png
   link: 'https://arxiv.org/abs/2510.06710'
   title: 'RLinf-VLA: A Unified and Efficient Framework for VLA+RL Training'
   mark: rlinfvla2025
-  publisher: Proceedings of RSS
+  publisher: 'Robotics: Science and Systems (RSS 2026)'
 
 - authors:
     - Chao Yu
@@ -98,12 +98,12 @@
     - Zhi Yang
     - Guohao Dai*
     - Yu Wang*
-  date: '2025-01-01'
+  date: '2026-01-01'
   image: images/rlinf.png
   link: 'https://arxiv.org/abs/2509.15965'
   title: 'RLinf: Flexible and Efficient Large-scale Reinforcement Learning via Macro-to-Micro Flow Transformation'
   mark: rlinf2025
-  publisher: Proceedings of OSDI
+  publisher: 20th USENIX Symposium on Operating Systems Design and Implementation (OSDI 2026)
 
 - authors:
     - Zelai Xu
@@ -119,4 +119,4 @@
   link: 'https://arxiv.org/abs/2506.02387'
   title: 'VS-Bench: Evaluating VLMs for Strategic Reasoning and Decision-Making in Multi-Agent Environments'
   mark: cvpr2026
-  publisher: Proceedings of CVPR
+  publisher: IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2026), Oral
