@@ -1,4 +1,23 @@
 - authors:
+  - Zhuoran Zhu
+  - Chunyang Zhu
+  - Hao Lin
+  - Xu Fu
+  - Yiming Zhou
+  - Quanlu Zhang
+  - Zhenhua Li
+  - Feng Qian
+  - Chao Yu
+  - Boxun Li
+  - Guohao Dai
+  - Yu Wang
+  date: '2027-01-01'
+  image: images/fusco.png
+  link: https://arxiv.org/pdf/2512.22036
+  title: 'FUSCO: High-Performance Distributed Data Shuffling via Transformation-Communication Fusion'
+  mark: nsdi2027
+  publisher: 24th USENIX Symposium on Networked Systems Design and Implementation (NSDI 2027)
+- authors:
   - Yixian Zhang
   - Huanming Zhang
   - Feng Gao
@@ -182,7 +201,7 @@
   - Zhi Yang
   - Yu Wang
   date: '2026-07-13'
-  image: images/osdi26_dynarl.png
+  image: images/dynarl.png
   link: https://www.usenix.org/conference/osdi26/presentation/wang-yuanqing
   title: 'DynaRL: Flexible and Dynamic Scheduling of Large-scale Reinforcement Learning Training'
   mark: osdi2026
@@ -1104,6 +1123,22 @@
   mark: aamas2023
   publisher: International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2023)
 - authors:
+  - Jincheng Yu
+  - Zhilin Xu
+  - Shulin Zeng
+  - Chao Yu
+  - Jiantao Qiu
+  - Chaoyang Shen
+  - Yuanfan Xu
+  - Guohao Dai
+  - Yu Wang
+  - Huazhong Yang
+  date: '2022-01-01'
+  image: images/incame.png
+  title: 'INCAME: Interruptible CNN Accelerator for Multirobot Exploration'
+  mark: tcad2022
+  publisher: 'IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD 2022), 41(4):964-978'
+- authors:
   - Chao Yu
   - Akash Velu
   - Eugene Vinitsky
@@ -1226,6 +1261,18 @@
   mark: iclr2021
   publisher: International Conference on Learning Representations (ICLR 2021)
 - authors:
+  - Chao Yu
+  - Akash Velu
+  - Eugene Vinitsky
+  - Yu Wang
+  - Alexandre Bayen
+  - Yi Wu
+  date: '2020-01-01'
+  image: images/Benchmarking-Multi-agent.png
+  title: Benchmarking Multi-agent Deep Reinforcement Learning Algorithms
+  mark: neurips2020
+  publisher: Conference on Neural Information Processing Systems (NeurIPS 2020), Workshop
+- authors:
   - Jincheng Yu
   - Zhilin Xu
   - Shulin Zeng
@@ -1327,3 +1374,13 @@
   title: 'DS-SLAM: A Semantic Visual SLAM towards Dynamic Environments'
   mark: iros2018
   publisher: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2018)
+- authors:
+  - Chao Yu
+  - Xin-Jun Liu
+  - Fei Qiao
+  - Fugui Xie
+  date: '2017-01-01'
+  image: images/Multi-robot-Coordination.png
+  title: Multi-robot coordination for high-speed pick-and-place tasks
+  mark: robio2017
+  publisher: IEEE International Conference on Robotics and Biomimetics (ROBIO 2017)
