@@ -17,6 +17,7 @@ nav:
 
 ## Team Live
 
+- *2026.09.15*: 张翼显（具身智能之心）— [Coding Agent 在具身世界能走多远？Harness VLA 对机器人操作边界的探索](https://mp.weixin.qq.com/s/E1ODXbz4W0ddO0HRp-tjjQ)
 - *2026.08.08*: 张翼显（青稞）— [从端到端 VLA 到 Harness VLA：面向具身智能与机器人操作任务的记忆增强式执行框架](https://qingkeai.online)
 - *2026.07.29*: 张翼显（XRobotics）— [Harness VLA：可持续进化的具身智能体系统](https://weixin.qq.com/sph/ASMB0IqMPD)
 - *2026.07.25*: 刘志豪（青稞 AI）— [STEAM：无需人工标注的时序集成优势建模，让真实世界机器人学习更进一步！](https://mp.weixin.qq.com/s/bqP1ucd2L7bk1kOul6aZ3w)
