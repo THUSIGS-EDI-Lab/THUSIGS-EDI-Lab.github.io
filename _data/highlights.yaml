@@ -4,11 +4,15 @@
     - Eugene Vinitsky
     - Jiaxuan Gao
     - Yu Wang*
-    - Alexandre Bayen*
+    - Alexandre Bayen
     - Yi Wu*
   date: '2022-01-01'
   image: images/ppogames.png
   link: 'https://proceedings.neurips.cc/paper_files/paper/2022/hash/9c1535a02f0ce079433344e14d910597-Abstract-Datasets_and_Benchmarks.html'
+  buttons:
+    - icon: fa-brands fa-github
+      text: Code
+      link: https://github.com/marlbenchmark/on-policy
   title: 'The Surprising Effectiveness of PPO in Cooperative Multi-Agent Games'
   mark: neurips2022
   publisher: Conference on Neural Information Processing Systems (NeurIPS 2022), Datasets and Benchmarks Track
@@ -26,6 +30,10 @@
   date: '2024-01-01'
   image: images/dpostudy.png
   link: 'https://arxiv.org/abs/2404.10719'
+  buttons:
+    - icon: fa-brands fa-github
+      text: Code
+      link: https://github.com/openpsi-project/ReaLHF
   title: 'Is DPO Superior to PPO for LLM Alignment? A Comprehensive Study'
   mark: icml2024
   publisher: International Conference on Machine Learning (ICML 2024), Oral
@@ -34,8 +42,8 @@
     - Zelai Xu
     - Chao Yu
     - Fei Fang
-    - Yu Wang*
-    - Yi Wu*
+    - Yu Wang
+    - Yi Wu
   date: '2024-01-01'
   image: images/werewolf.png
   link: 'https://arxiv.org/abs/2310.18940'
@@ -64,7 +72,7 @@
   date: '2026-01-01'
   image: images/rlinfvla.png
   link: 'https://arxiv.org/abs/2510.06710'
-  title: 'RLinf-VLA: A Unified and Efficient Framework for VLA+RL Training'
+  title: 'RLinf-VLA: A Unified and Efficient Framework for Reinforcement Learning of Vision-Language-Action Models'
   mark: rlinfvla2025
   publisher: 'Robotics: Science and Systems (RSS 2026)'
 
@@ -85,10 +93,8 @@
     - Ke Yang
     - Bo Dai
     - Zhexuan Xu
-    - Jiakun Du
     - Xiangyuan Wang
     - Xu Fu
-    - Letong Shi
     - Zhihao Liu
     - Kang Chen
     - Weilin Liu
@@ -96,11 +102,15 @@
     - Boxun Li
     - Jianlei Yang
     - Zhi Yang
-    - Guohao Dai*
+    - Guohao Dai
     - Yu Wang*
   date: '2026-01-01'
   image: images/rlinf.png
   link: 'https://arxiv.org/abs/2509.15965'
+  buttons:
+    - icon: fa-brands fa-github
+      text: Code
+      link: https://github.com/RLinf/RLinf
   title: 'RLinf: Flexible and Efficient Large-scale Reinforcement Learning via Macro-to-Micro Flow Transformation'
   mark: rlinf2025
   publisher: 20th USENIX Symposium on Operating Systems Design and Implementation (OSDI 2026)
@@ -111,7 +121,7 @@
     - Xiangmin Yi
     - Huining Yuan
     - Xinlei Chen
-    - Yongji Wu
+    - Yi Wu
     - Chao Yu*
     - Yu Wang*
   date: '2026-01-01'
