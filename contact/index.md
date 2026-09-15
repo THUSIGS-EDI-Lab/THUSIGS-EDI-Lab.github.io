@@ -14,7 +14,7 @@ nav:
 
 如果您对我们的研究方向感兴趣，我们诚挚邀请您加入 EDI Lab！
 
-{% include alert.html type="tip" content="请将您的简历发送至**于超**老师：[yuchao@sz.tsinghua.edu.cn](mailto:yuchao@sz.tsinghua.edu.cn)" %}
+{% include alert.html type="tip" content="请将您的简历发送至**课题组招生邮箱**：[edilab_hire@163.com](mailto:edilab_hire@163.com)" %}
 
 {% include section.html %}
 
