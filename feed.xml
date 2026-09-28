@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://tihayakousaka.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://tihayakousaka.github.io/" rel="alternate" type="text/html" /><updated>2026-09-22T06:53:35+00:00</updated><id>https://tihayakousaka.github.io/feed.xml</id><title type="html">Embodied Decision Intelligence Lab (EDI Lab)</title><subtitle>Toward scalable decision intelligence in the physical world</subtitle><entry><title type="html">GPT-6 Astra 走向机器人，开源基础设施 RPent 正式上线了！</title><link href="https://tihayakousaka.github.io/2026/09/21/rpent-post.html" rel="alternate" type="text/html" title="GPT-6 Astra 走向机器人，开源基础设施 RPent 正式上线了！" /><published>2026-09-21T00:00:00+00:00</published><updated>2026-09-22T06:53:00+00:00</updated><id>https://tihayakousaka.github.io/2026/09/21/rpent-post</id><content type="html" xml:base="https://tihayakousaka.github.io/2026/09/21/rpent-post.html"><![CDATA[<p>Codex、Claude Code 等数字智能体已经展示了一种高效的工作方式：大模型理解目标、拆解任务、调用工具，并根据结果持续调整。随着 GPT-6 Astra 开始接受真实机器人操作测试，同一种智能体范式正在进入物理世界。</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://tihayakousaka.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://tihayakousaka.github.io/" rel="alternate" type="text/html" /><updated>2026-09-28T06:13:55+00:00</updated><id>https://tihayakousaka.github.io/feed.xml</id><title type="html">Embodied Decision Intelligence Lab (EDI Lab)</title><subtitle>Toward scalable decision intelligence in the physical world</subtitle><entry><title type="html">壁仞科技算力接入RLinf</title><link href="https://tihayakousaka.github.io/2026/09/28/biren-rlinf-post.html" rel="alternate" type="text/html" title="壁仞科技算力接入RLinf" /><published>2026-09-28T00:00:00+00:00</published><updated>2026-09-28T06:13:25+00:00</updated><id>https://tihayakousaka.github.io/2026/09/28/biren-rlinf-post</id><content type="html" xml:base="https://tihayakousaka.github.io/2026/09/28/biren-rlinf-post.html"><![CDATA[<p>壁仞科技算力接入RLinf。</p>
+
+<p><a href="https://mp.weixin.qq.com/s/7cVPdZ9rqgQf4lP61vuosg">查看详细报道</a></p>]]></content><author><name></name></author><summary type="html"><![CDATA[壁仞科技算力接入RLinf。]]></summary></entry><entry><title type="html">GPT-6 Astra 走向机器人，开源基础设施 RPent 正式上线了！</title><link href="https://tihayakousaka.github.io/2026/09/21/rpent-post.html" rel="alternate" type="text/html" title="GPT-6 Astra 走向机器人，开源基础设施 RPent 正式上线了！" /><published>2026-09-21T00:00:00+00:00</published><updated>2026-09-28T06:13:25+00:00</updated><id>https://tihayakousaka.github.io/2026/09/21/rpent-post</id><content type="html" xml:base="https://tihayakousaka.github.io/2026/09/21/rpent-post.html"><![CDATA[<p>Codex、Claude Code 等数字智能体已经展示了一种高效的工作方式：大模型理解目标、拆解任务、调用工具，并根据结果持续调整。随着 GPT-6 Astra 开始接受真实机器人操作测试，同一种智能体范式正在进入物理世界。</p>
 
 <p>但机器人面对的不是可以随时回滚的代码。环境持续变化，观测并不完整，动作会真实改变物体和场景；抓取、接触和双臂协同，还要求低延迟、高精度的专用控制能力。通用大模型能够规划，却不适合独自承担全部物理执行。</p>
 
@@ -9,7 +11,7 @@
 <ul>
   <li><a href="https://mp.weixin.qq.com/s/VxbuJRxJGxFbzai_DrZ6AQ">查看详细报道</a></li>
   <li><a href="https://github.com/RLinf/RPent">开源代码</a></li>
-</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[Codex、Claude Code 等数字智能体已经展示了一种高效的工作方式：大模型理解目标、拆解任务、调用工具，并根据结果持续调整。随着 GPT-6 Astra 开始接受真实机器人操作测试，同一种智能体范式正在进入物理世界。]]></summary></entry><entry><title type="html">RLinf × SGLang：Cosmos3 从模型微调到高效评测的全流程集成实践分享</title><link href="https://tihayakousaka.github.io/2026/09/20/cosmos3-sglang-post.html" rel="alternate" type="text/html" title="RLinf × SGLang：Cosmos3 从模型微调到高效评测的全流程集成实践分享" /><published>2026-09-20T00:00:00+00:00</published><updated>2026-09-22T06:53:00+00:00</updated><id>https://tihayakousaka.github.io/2026/09/20/cosmos3-sglang-post</id><content type="html" xml:base="https://tihayakousaka.github.io/2026/09/20/cosmos3-sglang-post.html"><![CDATA[<p>随着具身智能模型不断演进，模型本身的能力只是完整开发链路的一部分。对于一个新的 World Action Model（WAM）而言，从模型接入、训练，到推理和仿真评测，都需要一套能够快速适配并高效运行的基础设施。</p>
+</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[Codex、Claude Code 等数字智能体已经展示了一种高效的工作方式：大模型理解目标、拆解任务、调用工具，并根据结果持续调整。随着 GPT-6 Astra 开始接受真实机器人操作测试，同一种智能体范式正在进入物理世界。]]></summary></entry><entry><title type="html">RLinf × SGLang：Cosmos3 从模型微调到高效评测的全流程集成实践分享</title><link href="https://tihayakousaka.github.io/2026/09/20/cosmos3-sglang-post.html" rel="alternate" type="text/html" title="RLinf × SGLang：Cosmos3 从模型微调到高效评测的全流程集成实践分享" /><published>2026-09-20T00:00:00+00:00</published><updated>2026-09-28T06:13:25+00:00</updated><id>https://tihayakousaka.github.io/2026/09/20/cosmos3-sglang-post</id><content type="html" xml:base="https://tihayakousaka.github.io/2026/09/20/cosmos3-sglang-post.html"><![CDATA[<p>随着具身智能模型不断演进，模型本身的能力只是完整开发链路的一部分。对于一个新的 World Action Model（WAM）而言，从模型接入、训练，到推理和仿真评测，都需要一套能够快速适配并高效运行的基础设施。</p>
 
 <p>RLinf 此前已经支持 DreamZero 等世界模型。此次，我们进一步将 NVIDIA Cosmos 3 集成到 RLinf，并结合 SGLang 作为推理后端，打通从模型 SFT、推理服务到仿真评测的完整流程。基于 RLinf 完成 Cosmos3-Nano SFT，训练精度与官方实现对齐；同时显著提升 Cosmos3 仿真评测吞吐，通过增强 SGLang 多 batch 推理及流水线并行评测，相比直接集成 SGLang 实现了 3.33 倍性能提升。</p>
 
@@ -18,15 +20,15 @@
 <ul>
   <li><a href="https://mp.weixin.qq.com/s/4w-085A4Yk5WJk2wNGpdMw?scene=1&amp;click_id=2">查看详细报道</a></li>
   <li><a href="https://www.sglang.io/blog/rlinf-sglang-cosmos3">SGLang 官方推送</a></li>
-</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[随着具身智能模型不断演进，模型本身的能力只是完整开发链路的一部分。对于一个新的 World Action Model（WAM）而言，从模型接入、训练，到推理和仿真评测，都需要一套能够快速适配并高效运行的基础设施。]]></summary></entry><entry><title type="html">于超老师入选《麻省理工科技评论》亚太区“35岁以下科技创新35人”</title><link href="https://tihayakousaka.github.io/2026/09/15/tr35-post.html" rel="alternate" type="text/html" title="于超老师入选《麻省理工科技评论》亚太区“35岁以下科技创新35人”" /><published>2026-09-15T00:00:00+00:00</published><updated>2026-09-22T06:53:00+00:00</updated><id>https://tihayakousaka.github.io/2026/09/15/tr35-post</id><content type="html" xml:base="https://tihayakousaka.github.io/2026/09/15/tr35-post.html"><![CDATA[<p>于超老师入选 MIT Technology Review <strong>Innovators Under 35 Asia Pacific（TR35 Asia Pacific）</strong>。</p>
+</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[随着具身智能模型不断演进，模型本身的能力只是完整开发链路的一部分。对于一个新的 World Action Model（WAM）而言，从模型接入、训练，到推理和仿真评测，都需要一套能够快速适配并高效运行的基础设施。]]></summary></entry><entry><title type="html">于超老师入选《麻省理工科技评论》亚太区“35岁以下科技创新35人”</title><link href="https://tihayakousaka.github.io/2026/09/15/tr35-post.html" rel="alternate" type="text/html" title="于超老师入选《麻省理工科技评论》亚太区“35岁以下科技创新35人”" /><published>2026-09-15T00:00:00+00:00</published><updated>2026-09-28T06:13:25+00:00</updated><id>https://tihayakousaka.github.io/2026/09/15/tr35-post</id><content type="html" xml:base="https://tihayakousaka.github.io/2026/09/15/tr35-post.html"><![CDATA[<p>于超老师入选 MIT Technology Review <strong>Innovators Under 35 Asia Pacific（TR35 Asia Pacific）</strong>。</p>
 
-<p><a href="https://www.sigs.tsinghua.edu.cn/2026/0915/c7626a293286/page.htm">SIGS 报道</a></p>]]></content><author><name></name></author><summary type="html"><![CDATA[于超老师入选 MIT Technology Review Innovators Under 35 Asia Pacific（TR35 Asia Pacific）。]]></summary></entry><entry><title type="html">RLinf 开源一周年茶话会</title><link href="https://tihayakousaka.github.io/2026/09/12/rlinf-anniversary-post.html" rel="alternate" type="text/html" title="RLinf 开源一周年茶话会" /><published>2026-09-12T00:00:00+00:00</published><updated>2026-09-22T06:53:00+00:00</updated><id>https://tihayakousaka.github.io/2026/09/12/rlinf-anniversary-post</id><content type="html" xml:base="https://tihayakousaka.github.io/2026/09/12/rlinf-anniversary-post.html"><![CDATA[<p>9 月 12 日，由无问芯穹主办的“RLinf 开源一周年茶话会”在北京圆满举行。本次茶话会以“Connect &amp; Co-create”为主题，汇聚了来自高校、头部企业及明星创业公司的技术大咖与开发者，在轻松愉悦的茶歇氛围中，围绕具身智能基础设施与前沿技术展开深度对话，共同回顾 RLinf 开源一年来的进化历程，并展望具身智能从数字世界迈向物理世界的关键路径。</p>
+<p><a href="https://www.sigs.tsinghua.edu.cn/2026/0915/c7626a293286/page.htm">SIGS 报道</a></p>]]></content><author><name></name></author><summary type="html"><![CDATA[于超老师入选 MIT Technology Review Innovators Under 35 Asia Pacific（TR35 Asia Pacific）。]]></summary></entry><entry><title type="html">RLinf 开源一周年茶话会</title><link href="https://tihayakousaka.github.io/2026/09/12/rlinf-anniversary-post.html" rel="alternate" type="text/html" title="RLinf 开源一周年茶话会" /><published>2026-09-12T00:00:00+00:00</published><updated>2026-09-28T06:13:25+00:00</updated><id>https://tihayakousaka.github.io/2026/09/12/rlinf-anniversary-post</id><content type="html" xml:base="https://tihayakousaka.github.io/2026/09/12/rlinf-anniversary-post.html"><![CDATA[<p>9 月 12 日，由无问芯穹主办的“RLinf 开源一周年茶话会”在北京圆满举行。本次茶话会以“Connect &amp; Co-create”为主题，汇聚了来自高校、头部企业及明星创业公司的技术大咖与开发者，在轻松愉悦的茶歇氛围中，围绕具身智能基础设施与前沿技术展开深度对话，共同回顾 RLinf 开源一年来的进化历程，并展望具身智能从数字世界迈向物理世界的关键路径。</p>
 
 <p>无问芯穹 CTO 李伯勋、清华大学深圳国际研究生院助理教授于超、无问芯穹技术副总裁张权路等多位 RLinf 主创团队代表来到活动现场，与开发者们面对面交流。同时，百度智能云主任架构师应茹、摩尔线程首席物理引擎架构师韩浩炜、Qwen 多模态负责人白帅、北京邮电大学副研究员徐大亮等嘉宾，带来了各自在具身智能与 AI 基础设施领域的深度洞察。</p>
 
 <p>此外，逐际动力 Flux Engine 项目负责人李寅昊、百度智能云资深工程师房丽颖、华为资深工程师杜婷、华为云 ModelArts 强化学习服务技术专家刘武明，共同就“具身智能技术前沿探讨”展开思想碰撞。</p>
 
-<p><a href="https://mp.weixin.qq.com/s/VitHi0OADwVHEuoQgjcETQ">查看活动回顾</a></p>]]></content><author><name></name></author><summary type="html"><![CDATA[9 月 12 日，由无问芯穹主办的“RLinf 开源一周年茶话会”在北京圆满举行。本次茶话会以“Connect &amp; Co-create”为主题，汇聚了来自高校、头部企业及明星创业公司的技术大咖与开发者，在轻松愉悦的茶歇氛围中，围绕具身智能基础设施与前沿技术展开深度对话，共同回顾 RLinf 开源一年来的进化历程，并展望具身智能从数字世界迈向物理世界的关键路径。]]></summary></entry><entry><title type="html">RLinf 精度对齐 + 百度百舸全链路优化：OpenPI PyTorch 训练吞吐提升 2.37 倍</title><link href="https://tihayakousaka.github.io/2026/08/21/openpi-throughput-post.html" rel="alternate" type="text/html" title="RLinf 精度对齐 + 百度百舸全链路优化：OpenPI PyTorch 训练吞吐提升 2.37 倍" /><published>2026-08-21T00:00:00+00:00</published><updated>2026-09-22T06:53:00+00:00</updated><id>https://tihayakousaka.github.io/2026/08/21/openpi-throughput-post</id><content type="html" xml:base="https://tihayakousaka.github.io/2026/08/21/openpi-throughput-post.html"><![CDATA[<p>经过 RLinf 的精度对齐与百度百舸的 AI Infra 全链路工程优化，OpenPI Pi0.5 在国内主流 GPU（无 NVLink、无 HPN）环境上实现了显著的训练加速。</p>
+<p><a href="https://mp.weixin.qq.com/s/VitHi0OADwVHEuoQgjcETQ">查看活动回顾</a></p>]]></content><author><name></name></author><summary type="html"><![CDATA[9 月 12 日，由无问芯穹主办的“RLinf 开源一周年茶话会”在北京圆满举行。本次茶话会以“Connect &amp; Co-create”为主题，汇聚了来自高校、头部企业及明星创业公司的技术大咖与开发者，在轻松愉悦的茶歇氛围中，围绕具身智能基础设施与前沿技术展开深度对话，共同回顾 RLinf 开源一年来的进化历程，并展望具身智能从数字世界迈向物理世界的关键路径。]]></summary></entry><entry><title type="html">RLinf 精度对齐 + 百度百舸全链路优化：OpenPI PyTorch 训练吞吐提升 2.37 倍</title><link href="https://tihayakousaka.github.io/2026/08/21/openpi-throughput-post.html" rel="alternate" type="text/html" title="RLinf 精度对齐 + 百度百舸全链路优化：OpenPI PyTorch 训练吞吐提升 2.37 倍" /><published>2026-08-21T00:00:00+00:00</published><updated>2026-09-28T06:13:25+00:00</updated><id>https://tihayakousaka.github.io/2026/08/21/openpi-throughput-post</id><content type="html" xml:base="https://tihayakousaka.github.io/2026/08/21/openpi-throughput-post.html"><![CDATA[<p>经过 RLinf 的精度对齐与百度百舸的 AI Infra 全链路工程优化，OpenPI Pi0.5 在国内主流 GPU（无 NVLink、无 HPN）环境上实现了显著的训练加速。</p>
 
 <ul>
   <li>单机 8 卡训练吞吐从 74.20 sps 提升至 175.57 sps，达到 2.37 倍提升；</li>
@@ -35,9 +37,9 @@
   <li>32 机 256 卡规模下线性扩展比保持 91% 以上，集群算力得到充分释放。</li>
 </ul>
 
-<p><a href="https://mp.weixin.qq.com/s/4jWQ-FX9AmoY-EXv5sbBdQ?scene=1&amp;click_id=9">查看详细报道</a></p>]]></content><author><name></name></author><summary type="html"><![CDATA[经过 RLinf 的精度对齐与百度百舸的 AI Infra 全链路工程优化，OpenPI Pi0.5 在国内主流 GPU（无 NVLink、无 HPN）环境上实现了显著的训练加速。]]></summary></entry><entry><title type="html">清华于超专访：具身智能下一步，走向“模型 + 系统”协同</title><link href="https://tihayakousaka.github.io/2026/08/05/chao-yu-interview-post.html" rel="alternate" type="text/html" title="清华于超专访：具身智能下一步，走向“模型 + 系统”协同" /><published>2026-08-05T00:00:00+00:00</published><updated>2026-09-22T06:53:00+00:00</updated><id>https://tihayakousaka.github.io/2026/08/05/chao-yu-interview-post</id><content type="html" xml:base="https://tihayakousaka.github.io/2026/08/05/chao-yu-interview-post.html"><![CDATA[<p><a href="https://mp.weixin.qq.com/s/KSXKy7nVAQ8eshrBRtGnUA?scene=1&amp;click_id=10">阅读专访</a></p>]]></content><author><name></name></author><summary type="html"><![CDATA[阅读专访]]></summary></entry><entry><title type="html">RLinf 重构 OpenPI-PyTorch，与官方 JAX 版本性能对齐</title><link href="https://tihayakousaka.github.io/2026/08/04/openpi-pytorch-post.html" rel="alternate" type="text/html" title="RLinf 重构 OpenPI-PyTorch，与官方 JAX 版本性能对齐" /><published>2026-08-04T00:00:00+00:00</published><updated>2026-09-22T06:53:00+00:00</updated><id>https://tihayakousaka.github.io/2026/08/04/openpi-pytorch-post</id><content type="html" xml:base="https://tihayakousaka.github.io/2026/08/04/openpi-pytorch-post.html"><![CDATA[<p>RLinf 重构了 OpenPI-PyTorch，实现了与官方 JAX 版本的性能对齐，为 OpenPI 在 PyTorch 生态中的训练和强化学习后训练提供了高效基础。</p>
+<p><a href="https://mp.weixin.qq.com/s/4jWQ-FX9AmoY-EXv5sbBdQ?scene=1&amp;click_id=9">查看详细报道</a></p>]]></content><author><name></name></author><summary type="html"><![CDATA[经过 RLinf 的精度对齐与百度百舸的 AI Infra 全链路工程优化，OpenPI Pi0.5 在国内主流 GPU（无 NVLink、无 HPN）环境上实现了显著的训练加速。]]></summary></entry><entry><title type="html">清华于超专访：具身智能下一步，走向“模型 + 系统”协同</title><link href="https://tihayakousaka.github.io/2026/08/05/chao-yu-interview-post.html" rel="alternate" type="text/html" title="清华于超专访：具身智能下一步，走向“模型 + 系统”协同" /><published>2026-08-05T00:00:00+00:00</published><updated>2026-09-28T06:13:25+00:00</updated><id>https://tihayakousaka.github.io/2026/08/05/chao-yu-interview-post</id><content type="html" xml:base="https://tihayakousaka.github.io/2026/08/05/chao-yu-interview-post.html"><![CDATA[<p><a href="https://mp.weixin.qq.com/s/KSXKy7nVAQ8eshrBRtGnUA?scene=1&amp;click_id=10">阅读专访</a></p>]]></content><author><name></name></author><summary type="html"><![CDATA[阅读专访]]></summary></entry><entry><title type="html">RLinf 重构 OpenPI-PyTorch，与官方 JAX 版本性能对齐</title><link href="https://tihayakousaka.github.io/2026/08/04/openpi-pytorch-post.html" rel="alternate" type="text/html" title="RLinf 重构 OpenPI-PyTorch，与官方 JAX 版本性能对齐" /><published>2026-08-04T00:00:00+00:00</published><updated>2026-09-28T06:13:25+00:00</updated><id>https://tihayakousaka.github.io/2026/08/04/openpi-pytorch-post</id><content type="html" xml:base="https://tihayakousaka.github.io/2026/08/04/openpi-pytorch-post.html"><![CDATA[<p>RLinf 重构了 OpenPI-PyTorch，实现了与官方 JAX 版本的性能对齐，为 OpenPI 在 PyTorch 生态中的训练和强化学习后训练提供了高效基础。</p>
 
-<p><a href="https://mp.weixin.qq.com/s/Ea8jb6LnIw6LSiDuE4dZTw?scene=1">查看详细报道</a></p>]]></content><author><name></name></author><summary type="html"><![CDATA[RLinf 重构了 OpenPI-PyTorch，实现了与官方 JAX 版本的性能对齐，为 OpenPI 在 PyTorch 生态中的训练和强化学习后训练提供了高效基础。]]></summary></entry><entry><title type="html">具身智能或进入 Token 时代，清华团队提出 Harness VLA 引领范式变迁</title><link href="https://tihayakousaka.github.io/2026/07/22/harness-vla-post.html" rel="alternate" type="text/html" title="具身智能或进入 Token 时代，清华团队提出 Harness VLA 引领范式变迁" /><published>2026-07-22T00:00:00+00:00</published><updated>2026-09-22T06:53:00+00:00</updated><id>https://tihayakousaka.github.io/2026/07/22/harness-vla-post</id><content type="html" xml:base="https://tihayakousaka.github.io/2026/07/22/harness-vla-post.html"><![CDATA[<p>清华大学于超教授团队联合正行创新、无问芯穹，正式发布并开源 Harness VLA。这一技术成果首次将数字智能中广泛应用的 Harness Layer 引入具身智能系统，在保持 VLA 模型冻结的基础上，通过 Agentic Planner 对模型调用、任务执行和失败恢复进行统一组织，让机器人从“依赖单一端到端模型”迈向“模型能力与系统能力协同工作”的新架构，显著提升机器人在复杂真实环境中的泛化能力。</p>
+<p><a href="https://mp.weixin.qq.com/s/Ea8jb6LnIw6LSiDuE4dZTw?scene=1">查看详细报道</a></p>]]></content><author><name></name></author><summary type="html"><![CDATA[RLinf 重构了 OpenPI-PyTorch，实现了与官方 JAX 版本的性能对齐，为 OpenPI 在 PyTorch 生态中的训练和强化学习后训练提供了高效基础。]]></summary></entry><entry><title type="html">具身智能或进入 Token 时代，清华团队提出 Harness VLA 引领范式变迁</title><link href="https://tihayakousaka.github.io/2026/07/22/harness-vla-post.html" rel="alternate" type="text/html" title="具身智能或进入 Token 时代，清华团队提出 Harness VLA 引领范式变迁" /><published>2026-07-22T00:00:00+00:00</published><updated>2026-09-28T06:13:25+00:00</updated><id>https://tihayakousaka.github.io/2026/07/22/harness-vla-post</id><content type="html" xml:base="https://tihayakousaka.github.io/2026/07/22/harness-vla-post.html"><![CDATA[<p>清华大学于超教授团队联合正行创新、无问芯穹，正式发布并开源 Harness VLA。这一技术成果首次将数字智能中广泛应用的 Harness Layer 引入具身智能系统，在保持 VLA 模型冻结的基础上，通过 Agentic Planner 对模型调用、任务执行和失败恢复进行统一组织，让机器人从“依赖单一端到端模型”迈向“模型能力与系统能力协同工作”的新架构，显著提升机器人在复杂真实环境中的泛化能力。</p>
 
 <blockquote>
   <p>在更具挑战性的 LIBERO-Pro 扰动评测中，Harness VLA 将成功率提升至 82.4%，显著超过 Pi_RLinf（50%）、NVIDIA Cap-X（18.2%）和 Berkeley RATS（43.8%），验证了“模型 + 系统”新一代机器人智能架构的可行性。</p>
@@ -45,7 +47,7 @@
 
 <p>更重要的是，Harness 并非针对某一特定模型设计，而是一种面向系统层的通用框架。除了 VLA，它同样能够与 WAM 等具身基础模型结合，通过统一的任务执行层释放不同基础模型的能力，为未来具身智能系统提供更加通用的组织方式。</p>
 
-<p><a href="https://mp.weixin.qq.com/s/jt5KZ0pYDzUn7i4u6Nn3qg?scene=1">查看详细报道</a></p>]]></content><author><name></name></author><summary type="html"><![CDATA[清华大学于超教授团队联合正行创新、无问芯穹，正式发布并开源 Harness VLA。这一技术成果首次将数字智能中广泛应用的 Harness Layer 引入具身智能系统，在保持 VLA 模型冻结的基础上，通过 Agentic Planner 对模型调用、任务执行和失败恢复进行统一组织，让机器人从“依赖单一端到端模型”迈向“模型能力与系统能力协同工作”的新架构，显著提升机器人在复杂真实环境中的泛化能力。]]></summary></entry><entry><title type="html">百度百舸率先适配 RLinf v0.3</title><link href="https://tihayakousaka.github.io/2026/07/16/post.html" rel="alternate" type="text/html" title="百度百舸率先适配 RLinf v0.3" /><published>2026-07-16T00:00:00+00:00</published><updated>2026-09-22T06:53:00+00:00</updated><id>https://tihayakousaka.github.io/2026/07/16/post</id><content type="html" xml:base="https://tihayakousaka.github.io/2026/07/16/post.html"><![CDATA[<h1 id="云厂商首家百度百舸率先适配-rlinf-v03打通具身智能进化闭环">云厂商首家！百度百舸率先适配 RLinf v0.3，打通具身智能进化闭环</h1>
+<p><a href="https://mp.weixin.qq.com/s/jt5KZ0pYDzUn7i4u6Nn3qg?scene=1">查看详细报道</a></p>]]></content><author><name></name></author><summary type="html"><![CDATA[清华大学于超教授团队联合正行创新、无问芯穹，正式发布并开源 Harness VLA。这一技术成果首次将数字智能中广泛应用的 Harness Layer 引入具身智能系统，在保持 VLA 模型冻结的基础上，通过 Agentic Planner 对模型调用、任务执行和失败恢复进行统一组织，让机器人从“依赖单一端到端模型”迈向“模型能力与系统能力协同工作”的新架构，显著提升机器人在复杂真实环境中的泛化能力。]]></summary></entry><entry><title type="html">百度百舸率先适配 RLinf v0.3</title><link href="https://tihayakousaka.github.io/2026/07/16/post.html" rel="alternate" type="text/html" title="百度百舸率先适配 RLinf v0.3" /><published>2026-07-16T00:00:00+00:00</published><updated>2026-09-28T06:13:25+00:00</updated><id>https://tihayakousaka.github.io/2026/07/16/post</id><content type="html" xml:base="https://tihayakousaka.github.io/2026/07/16/post.html"><![CDATA[<h1 id="云厂商首家百度百舸率先适配-rlinf-v03打通具身智能进化闭环">云厂商首家！百度百舸率先适配 RLinf v0.3，打通具身智能进化闭环</h1>
 
 <p>强化学习开源框架 RLinf 正式发布 v0.3 版本，首次打通从数据采集、模型训练到真机部署的完整闭环。百度智能云在发布当天即完成适配，成为国内首家支持 RLinf v0.3 的云厂商。开发者可通过百度百舸「快速开始」功能，一键拉起 RLinf v0.3 预制开发环境（如适配 LIBERO 仿真、OpenVLA 模型训练的预置镜像），免去繁琐的环境打包与软件部署，快速跑通从框架适配到场景验证的全流程。</p>
 
@@ -91,310 +93,4 @@
   <li>落地见证：dVLA-RL 发布验证百度百舸对 RLinf 的深度优化能力在最新的学术成果中，百度百舸团队联合上海交通大学、地瓜机器人（D-Robotics）等前沿机构，联合发布了 dVLA-RL 强化学习训练框架，首次打通经典 PPO 算法与离散扩散 VLA 模型的适配通路，为机器人 Foundation Model 持续自主进化奠定了技术基础。</li>
 </ol>
 
-<p>该框架的全部实验均基于百度百舸 AI 计算平台完成。其中，百度百舸团队针对 RLinf 进行的 AI Infra 工程优化，大幅度提升了 dVLA 模型在强化学习阶段的训练效果。目前，百度百舸已经服务超过 30 家具身智能头部企业及创新中心。未来，百度智能云将持续携手更多科研机构与产业伙伴，依托百度百舸 AI 计算平台的极致性能与 AI Infra 工程优化能力，共同加速全球具身智能产业的创新与规模化落地。</p>]]></content><author><name></name></author><summary type="html"><![CDATA[云厂商首家！百度百舸率先适配 RLinf v0.3，打通具身智能进化闭环]]></summary></entry><entry><title type="html">RLinf v0.3 发布</title><link href="https://tihayakousaka.github.io/2026/07/15/post.html" rel="alternate" type="text/html" title="RLinf v0.3 发布" /><published>2026-07-15T00:00:00+00:00</published><updated>2026-09-22T06:53:00+00:00</updated><id>https://tihayakousaka.github.io/2026/07/15/post</id><content type="html" xml:base="https://tihayakousaka.github.io/2026/07/15/post.html"><![CDATA[<h1 id="rlinf-v03来了从模型生态到真机部署五大能力跃升无问芯穹与清华大学联合打造">RLinf v0.3来了！从模型生态到真机部署五大能力跃升，无问芯穹与清华大学联合打造</h1>
-
-<p>当下的具身智能行业，正站在从“数据驱动”迈向“经验驱动”的关键拐点上。机器人不再满足于静态模仿，而是需要在真实世界中持续学习、在线进化。但在现实中，强化学习流程复杂、系统组件异构、资源形态多样以及真实世界在线学习难以规模化等关键问题，成为影响具身智能走进真实世界的行业痛点。</p>
-
-<p>今天，由无问芯穹联合清华大学等共同研发的<strong>全球首个面向具身智能持续进化的大规模强化学习基础设施项目RLinf，正式宣布升级为 RLinf v0.3，</strong>为破解具身智能行业发展瓶颈构建了新一代“进化底座”！</p>
-
-<p>RLinf v0.1 和 v0.2 分别完成了强化学习系统抽象与真实世界在线学习基础设施建设。新版 RLinf v0.3<strong>进一步升级为面向具身智能持续进化的一站式开发平台，</strong>首次完整打通<strong>数据采集、数据管理、监督微调（SFT）、强化学习（RL）、模型评测以及真机部署</strong>等关键环节，实现从仿真训练到真实机器人在线学习、再到持续迭代优化的统一开发闭环。</p>
-
-<p>由此，RLinf不仅能够高效训练机器人策略，更能够支撑机器人在真实世界中的长期持续进化。</p>
-
-<p>具体来说，RLinf v0.3围绕<strong>模型、算法、真机、仿真、系统</strong>五个维度，进行了全面升级，系统性地降低具身智能开发门槛，提升训练效率与部署灵活性，覆盖更加丰富的具身智能开源生态。</p>
-
-<p>针对强化学习中“参数难调、结果难复现”的行业痛点，RLinf 始终将训练效果的严格可复现作为核心标准。在此次 v0.3 正式发布前，研发团队已对大量应用示例完成了深度的复现性测试，详见v0.3 Release Notes。</p>
-
-<p>本次发版已与包括百度智能云在内的多家云厂商协同上线。</p>
-
-<p><strong>RLinf v0.3 Release Notes：</strong>https://rlinf.readthedocs.io/zh-cn/release-v0.3/rst_source/resources/release_v0.3.html</p>
-
-<p><strong>快速上手：</strong></p>
-
-<p>https://docs.neogpu.com/posts/rlinf-ppo-vla.html</p>
-
-<p>https://cloud.baidu.com/doc/AIHC/s/fmrenj9u1</p>
-
-<p><strong>Github链接：</strong>https://github.com/RLinf/RLinf</p>
-
-<p><strong>RLinf Tech Report：</strong>https://arxiv.org/abs/2509.15965</p>
-
-<p><strong>01 模型生态：新增6款主流具身模型</strong></p>
-
-<p>RLinf v0.3继续扩展模型生态，新增 6 款具身模型支持，涵盖世界模型、VLA 模型及系统级加速：</p>
-
-<ul>
-  <li>
-    <p>新增</p>
-
-    <p><strong>Dexbotic DM0</strong> 模型支持，在 LIBERO 上用 PPO 进行在线 RL 微调。</p>
-  </li>
-  <li>
-    <p>新增 DreamZero</p>
-
-    <p>模型支持：基于 WAN2.1/2.2 视频生成世界模型微调的 VLA 策略，集成进 SFT 工作流，通过 FSDP2/CUDA Graph 等系统级加速取得近4倍</p>
-
-    <p>吞吐提升。</p>
-  </li>
-  <li>
-    <p>新增 GR00T-N1.6 / N1.7</p>
-
-    <p>模型 RL 微调支持。</p>
-  </li>
-  <li>
-    <p>新增 ABot-M0</p>
-
-    <p>模型支持。</p>
-  </li>
-  <li>
-    <p>新增 StarVLA</p>
-
-    <p>模型支持（GRPO on LIBERO）。</p>
-  </li>
-  <li>
-    <p>新增 LingBot-VLA</p>
-
-    <p>模型支持（RoboTwin 环境 SFT/RL）。</p>
-  </li>
-</ul>
-
-<p><strong>02 算法体系：从模仿学习到真机学习全覆盖</strong></p>
-
-<p>新版在真机 RL、仿真 RL 和人在环学习三个方向均有重要算法新增，表现出SOTA的真机任务成功率。具体：</p>
-
-<p><strong>真机强化学习算法：</strong></p>
-
-<ul>
-  <li>
-    <p>将</p>
-
-    <p><strong>DSRL</strong>（Diffusion Steering via Reinforcement Learning）扩展至 Pi0.5 模型。</p>
-  </li>
-  <li>
-    <p>新增 RECAP</p>
-
-    <p>（基于离线优势估计的策略优化）训练流水线支持。</p>
-  </li>
-  <li>
-    <p>新增 SAC-Flow</p>
-
-    <p>算法支持，并扩展到 DOS-W1 等真机场景。</p>
-  </li>
-</ul>
-
-<p><strong>仿真强化学习算法：</strong></p>
-
-<ul>
-  <li>
-    <p><strong>Async PPO：</strong>在 v0.2 基础上扩展支持 MLP 等新策略，并新增 async DSRL 配置。</p>
-  </li>
-  <li>
-    <p>新增 D4RL 离线 IQL</p>
-
-    <p>训练支持（Antmaze / Kitchen-Adroit / MuJoCo，基于 FSDPStrategy）。</p>
-  </li>
-</ul>
-
-<hr />
-
-<p><strong>人在环学习：</strong></p>
-
-<ul>
-  <li>
-    <p>新增</p>
-
-    <p><strong>DAgger</strong> 在线模仿学习算法支持（LIBERO、ManiSkill、RoboTwin、真机 PnP 多场景）。</p>
-  </li>
-  <li>
-    <p>新增 HG-DAgger</p>
-
-    <p>（Human-Gated DAgger）真机在线训练支持。</p>
-  </li>
-</ul>
-
-<p><strong>03 真机支持：打通从数据采集到真机部署全链路闭环</strong></p>
-
-<p>新版全面打通数据采集 → SFT → RL → 真机部署的闭环链路，新增 3 种遥操作方式、3 款真机平台、2 款末端执行器，真机实操能力显著增强：</p>
-
-<p><strong>数据采集支持：</strong></p>
-
-<ul>
-  <li>
-    <p>新增</p>
-
-    <p><strong>空间鼠标（Spacemouse）</strong> 遥操作数据采集支持。</p>
-  </li>
-  <li>
-    <p>新增 VR 遥操作</p>
-
-    <p>数据采集支持。</p>
-  </li>
-  <li>
-    <p>新增 GELLO 遥操作</p>
-
-    <p>数据采集支持。</p>
-  </li>
-</ul>
-
-<hr />
-
-<p><strong>训练链路支持：</strong></p>
-
-<ul>
-  <li>
-    <p>新增</p>
-
-    <p><strong>LeRobot 格式数据采集</strong> 支持，便于与 HuggingFace LeRobot 生态互通。</p>
-  </li>
-  <li>
-    <p>新增 Pi0 真机 SFT 部署</p>
-
-    <p>支持，打通数据采集 → SFT → 真机部署链路。</p>
-  </li>
-  <li>
-    <p>新增 真机 reward model 数据采集</p>
-
-    <p>支持（采集带标注 reward 训练数据）。</p>
-  </li>
-</ul>
-
-<hr />
-
-<p><strong>真机平台与末端支持：</strong></p>
-
-<ul>
-  <li>
-    <p>新增</p>
-
-    <p><strong>双臂 Franka</strong> 平台支持（关节空间与 TCP/rot6d 控制、数据采集、SFT、部署）。</p>
-  </li>
-  <li>
-    <p>新增 GimArm</p>
-
-    <p>真机平台支持。</p>
-  </li>
-  <li>
-    <p>新增 DOS-W1</p>
-
-    <p>真机平台支持。</p>
-  </li>
-  <li>
-    <p>新增 Franka DexHand 灵巧手</p>
-
-    <p>末端执行器支持。</p>
-  </li>
-  <li>
-    <p>新增 Franka Robotiq</p>
-
-    <p>夹爪后端支持。</p>
-  </li>
-  <li>
-    <p>新增 Franka Robotiq 及 ZED / LUMOS V4L2</p>
-
-    <p>相机与夹爪后端支持。</p>
-  </li>
-</ul>
-
-<p><strong>04 仿真环境：场景覆盖更丰富</strong></p>
-
-<p>RLinf v0.3提升仿真强化学习的场景覆盖，新增 5 种仿真器，完善基于仿真器的训练示例与效果：</p>
-
-<ul>
-  <li>
-    <p>新增</p>
-
-    <p><strong>Genesis</strong> 仿真器支持。</p>
-  </li>
-  <li>
-    <p>新增</p>
-
-    <p><strong>Polaris</strong> 仿真器支持。</p>
-  </li>
-  <li>
-    <p>新增</p>
-
-    <p><strong>RoboVerse</strong> 仿真器支持。</p>
-  </li>
-  <li>
-    <p>完善</p>
-
-    <p><strong>Behavior</strong> 环境支持：新增 v3.7.1 / v3.7.2 版本补丁、π0.5 PPO 配置与 object/pose randomization。</p>
-  </li>
-  <li>
-    <p>新增</p>
-
-    <p><strong>Libero+ / LiberoPro</strong> 变体环境支持。</p>
-  </li>
-  <li>
-    <p>新增</p>
-
-    <p><strong>Embodichain（CartPole）</strong> 环境支持。</p>
-  </li>
-  <li>
-    <p>新增</p>
-
-    <p><strong>IsaacLab 上 π0.5 PPO finetuning</strong> 支持。</p>
-  </li>
-  <li>
-    <p>新增</p>
-
-    <p><strong>RoboCasa</strong> close-drawer 等 RL 示例支持。</p>
-  </li>
-</ul>
-
-<p><strong>05 系统基座：面向大规模训练持续强化底层能力</strong></p>
-
-<p>RLinf v0.3在系统层面新增多项重磅组件：</p>
-
-<ul>
-  <li>
-    <p>Reward Model组件：支持embodied reward worker + ResNet/VLM reward model。</p>
-  </li>
-  <li>
-    <p>Value Model组件：通用基础设施，支撑Pi0.6 RECAP等流水线。</p>
-  </li>
-  <li>
-    <p>SGLang推理服务化组件：HTTP server + router模式，可作为reward服务/rollout推理后端。</p>
-  </li>
-  <li>
-    <p>解耦环境执行组件：解除Env Worker与Rollout Worker一对一绑定，提升GPU利用率。</p>
-  </li>
-</ul>
-
-<p>性能优化方面，新增torch.compile加速、rollout与训练overlap、权重同步升级（broadcast/增量同步/分桶同步/仅同步可训练参数）、FSDP全offload支持，并修复了显存泄漏等关键问题。</p>
-
-<p>值得关注的是，RLinf v0.3全面支持昇腾Ascend（CANN/torch-npu）、AMD ROCm、Musa等国产及异构AI计算平台，真正做到跨机器人、跨模型、跨仿真器、跨计算硬件的统一训练能力。</p>
-
-<p><strong>06 One More Thing：RLinf for Agentic AI</strong></p>
-
-<p>RLinf v0.3为智能体 RL 场景提供了更强大的训练和评测基础：</p>
-
-<ul>
-  <li>
-    <p>新增</p>
-
-    <p><strong>AgentLightning 多轮单智能体 RL 训练</strong>与 Calc-X 评测支持。</p>
-  </li>
-  <li>
-    <p>新增</p>
-
-    <p><strong>Megatron-Bridge actor 后端</strong>支持（基于 Megatron-mbridge 模型的 RL 训练与 SFT）。</p>
-  </li>
-  <li>
-    <p>将</p>
-
-    <p><strong>SearchR1</strong> 重构为多轮接口，并新增 WideSeek judge 的内置 sglang 支持。</p>
-  </li>
-</ul>
-
-<p>RLinf 自开源以来，以开放共享为核心理念，迅速形成全球影响力。截至目前在 GitHub 已获得</p>
-
-<p><strong>4100+ Stars 、 600+ Forks、100+ Contributors</strong>，成为具身智能与大模型强化学习领域最受关注的基础设施项目之一。</p>
-
-<p>RLinf 已被 Isaac Lab 官方收录为其</p>
-
-<p><strong>首个面向具身大模型的训练引擎</strong>，体现了其在具身智能基础设施方向的国际技术引领能力。值得一提的是，RLinf团队与 NVIDIA 团队合作的医疗器械组装任务成功登上 NVIDIA GTC 2026，进一步验证了其全球技术影响力。</p>
-
-<p>此外，项目荣获 EAI-100年度十大突破奖，入选Pytorch Ecosystem、蚂蚁开源榜，代表其在具身智能基础设施领域的技术领先性与行业认可度。</p>
-
-<p>未来，RLinf将坚持开源路线，提升易用性，并携手社区同行持续贡献前沿算法。为了更好地与社区互动，RLinf团队也已经创建开发Roadmap（https://github.com/RLinf/RLinf/issues/1322），建立答疑群（https://raw.githubusercontent.com/RLinf/misc/refs/heads/main/pic/wechat.jpg），欢迎研究者们加入社区，共同开发！</p>]]></content><author><name></name></author><summary type="html"><![CDATA[RLinf v0.3来了！从模型生态到真机部署五大能力跃升，无问芯穹与清华大学联合打造]]></summary></entry></feed>
+<p>该框架的全部实验均基于百度百舸 AI 计算平台完成。其中，百度百舸团队针对 RLinf 进行的 AI Infra 工程优化，大幅度提升了 dVLA 模型在强化学习阶段的训练效果。目前，百度百舸已经服务超过 30 家具身智能头部企业及创新中心。未来，百度智能云将持续携手更多科研机构与产业伙伴，依托百度百舸 AI 计算平台的极致性能与 AI Infra 工程优化能力，共同加速全球具身智能产业的创新与规模化落地。</p>]]></content><author><name></name></author><summary type="html"><![CDATA[云厂商首家！百度百舸率先适配 RLinf v0.3，打通具身智能进化闭环]]></summary></entry></feed>
