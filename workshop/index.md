@@ -18,6 +18,12 @@ nav:
 
 于超老师担任论坛主席。
 
+## IROS 2026 Building Scalable Infrastructure for Robot Learning: From Data Scaling to Real-World Deployment Workshop
+
+*2026.09.27 - 2026.10.01*
+
+[查看活动详情](https://scale-infra.github.io/iros2026/)
+
 ## 具身智能规模化探索论坛 @ 2026 世界机器人大会
 
 *2026.08.22*
