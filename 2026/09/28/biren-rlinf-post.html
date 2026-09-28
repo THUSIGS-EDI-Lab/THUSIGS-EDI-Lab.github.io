@@ -461,7 +461,15 @@
 -->
 
 
-<p>壁仞科技算力接入RLinf。</p>
+<p>得益于 RLinf 对硬件平台的抽象解耦设计，BIRENSUPA™ 的接入遵循标准化插件模式，对其他硬件平台代码零侵入。</p>
+
+<p>在标准加速器抽象层面，方案实现全量对齐，新增壁仞科技 GPU 管理器，完整实现设备探测、设备数量上报、设备型号序列化等接口，并注册至 RLinf 加速器注册表与集合通信支持列表，与主流 AI 芯片等既有后端处于同一抽象层。</p>
+
+<p>在设备可见性与调度协同层面，通过 <code class="language-plaintext highlighter-rouge">SUPA_VISIBLE_DEVICES</code> 环境变量控制多卡可见性，同时设置 Ray 保护变量，避免 Ray 调度器覆盖 SUPA 的设备选择，从而保证训练进程与硬件分配严格一致。</p>
+
+<p>在通信栈对齐层面，分布式训练默认采用 BCCL（壁仞生态集合通信库）作为通信后端，对应 CUDA 生态中的 NCCL，支持 All-Reduce、All-Gather 等多卡集合通信。</p>
+
+<p>本次适配完成后，开发者无需修改任何 RLinf 相关代码，即可在壁砺™系列通用 GPU 上完整运行 RLinf 的大模型强化学习训练任务，实现跨硬件无感知迁移。</p>
 
 <p><a href="https://mp.weixin.qq.com/s/7cVPdZ9rqgQf4lP61vuosg">查看详细报道</a></p>
   </section>
@@ -482,8 +490,8 @@
   <span>
     
       <i class="icon fa-solid fa-angle-left"></i> Previous post<br>
-      <a href="/2026/09/21/rpent-post.html">
-        GPT-6 Astra 走向机器人，开源基础设施 RPent 正式上线了！
+      <a href="/2026/09/24/rlark-post.html">
+        清华大学联合无问芯穹开源具身智能云原生纳管平台RLark，5分钟接入、10秒启动任务
       </a>
     
   </span>

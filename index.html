@@ -809,8 +809,108 @@
 
       
       
-      <p data-search="壁仞科技算力接入RLinf 查看详细报道">
-        壁仞科技算力接入RLinf。
+      <p data-search="得益于 RLinf 对硬件平台的抽象解耦设计 BIRENSUPA  的接入遵循标准化插件模式 对其他硬件平台代码零侵入 在标准加速器抽象层面 方案实现全量对齐 新增壁仞科技 GPU 管理器 完整实现设备探测 设备数量上报 设备型号序列化等接口 并注册至 RLinf 加速器注册表与集合通信支持列表 与主流 AI 芯片等既有后端处于同一抽象层 在设备可见性与调度协同层面 通过 SUPA VISIBLE DEVICES 环境变量控制多卡可见性 同时设置 Ray 保护变量 避免 Ray 调度器覆盖 SUPA 的设备选择 从而保证训练进程与硬件分配严格一致 在通信栈对齐层面 分布式训练默认采用 BCCL 壁仞生态集合通信库 作为通信后端 对应 CUDA 生态中的 NCCL 支持 All Reduce All Gather 等多卡集合通信 本次适配完成后 开发者无需修改任何 RLinf 相关代码 即可在壁砺 系列通用 GPU 上完整运行 RLinf 的大模型强化学习训练任务 实现跨硬件无感知迁移 查看详细报道">
+        得益于 RLinf 对硬件平台的抽象解耦设计，BIRENSUPA™ 的接入遵循标准化插件模式，对其他硬件平台代码零侵入。
+
+      </p>
+    </div>
+  </div>
+</div>
+
+<div class="post-excerpt-container">
+  <div class="post-excerpt">
+    
+    
+    
+
+    
+
+    <div class="post-excerpt-text">
+      <a href="/2026/09/24/rlark-post.html">清华大学联合无问芯穹开源具身智能云原生纳管平台RLark，5分钟接入、10秒启动任务</a>
+
+      <div class="post-info">
+  
+
+  
+  
+
+  
+    <span data-tooltip="Originally published on">
+      <i class="icon fa-regular fa-calendar"></i>
+      <span>September 24, 2026</span>
+    </span>
+  
+
+  <!-- 
+    <span data-tooltip="Last updated on">
+      <i class="icon fa-solid fa-clock-rotate-left"></i>
+      <span>September 28, 2026</span>
+    </span>
+   -->
+</div>
+
+
+  
+
+
+
+
+
+
+      
+      
+      <p data-search="清华大学与无问芯穹共同打造并开源面向具身智能的云原生纳管平台 RLark 平台以自研的具身设备运行时 embodied runtime 和任务级跨集群网络互联技术为核心 打通 真实设备如何被统一调度 与 跨地域任务如何互联运行 两个关键环节 RLark 一方面统一管理机器人 相机等具身设备的运行时环境 使设备可以像 GPU 一样被申请 调度和复用 另一方面针对不同任务和网络流量特征 对跨集群通信进行任务级隔离 并优化大小包传输性能 提升云端与现场协同运行的效率 平台可以将云端算力 边缘节点和具身设备纳入统一资源体系 并以完整任务为单位组织运行 运维人员通过一行命令即可接入并统一管理设备 研究人员通过一份任务配置 即可将训练 推理和真机交互程序部署到不同集群 目前 RLark 已完成 3 个集群 近百个云边端节点的统一纳管 覆盖 4 种型号的具身设备 设备纳管时间从小时级缩短至约 5 分钟 任务提交后可在 10 秒内启动运行 并已打通跨地域的数据采集 训练与真机验证闭环 RLark 开放从用户界面 API 后端服务到任务编排 跨集群互联和具身设备运行时的整套能力 降低具身基础设施的部署与使用门槛   开源地址  项目文档  快速开始  查看详细报道">
+        清华大学与无问芯穹共同打造并开源面向具身智能的云原生纳管平台 RLark。平台以自研的具身设备运行时（embodied-runtime）和任务级跨集群网络互联技术为核心，打通“真实设备如何被统一调度”与“跨地域任务如何互联运行”两个关键环节。
+
+      </p>
+    </div>
+  </div>
+</div>
+
+<div class="post-excerpt-container">
+  <div class="post-excerpt">
+    
+    
+    
+
+    
+
+    <div class="post-excerpt-text">
+      <a href="/2026/09/22/rlinf-robotics-interface-post.html">再也不用担心机器人硬件更新！用 RLinf 像搭乐高一样组装机器人</a>
+
+      <div class="post-info">
+  
+
+  
+  
+
+  
+    <span data-tooltip="Originally published on">
+      <i class="icon fa-regular fa-calendar"></i>
+      <span>September 22, 2026</span>
+    </span>
+  
+
+  <!-- 
+    <span data-tooltip="Last updated on">
+      <i class="icon fa-solid fa-clock-rotate-left"></i>
+      <span>September 28, 2026</span>
+    </span>
+   -->
+</div>
+
+
+  
+
+
+
+
+
+
+      
+      
+      <p data-search="在真机强化学习实验中 更换夹爪 增设相机或扩展双臂平台通常需要修改多处代码 早期 RLinf 环境中的设备管理逻辑与特定硬件平台耦合 即使底层驱动可以复用 更换部件时仍需调整环境或控制器 为解决这一问题 RLinf 对真机接口进行了全新重构 将机械臂 夹爪和相机等硬件封装为高度可复用的 积木 模块 并通过统一接口按需组合 新设计实现了设备读写 机器人组合与任务逻辑的解耦 开发者可以灵活搭建单臂 双臂及多相机实验平台 并复用已有的硬件适配代码 查看详细报道">
+        在真机强化学习实验中，更换夹爪、增设相机或扩展双臂平台通常需要修改多处代码。早期 RLinf 环境中的设备管理逻辑与特定硬件平台耦合，即使底层驱动可以复用，更换部件时仍需调整环境或控制器。
 
       </p>
     </div>
@@ -911,106 +1011,6 @@
       
       <p data-search="随着具身智能模型不断演进 模型本身的能力只是完整开发链路的一部分 对于一个新的 World Action Model WAM 而言 从模型接入 训练 到推理和仿真评测 都需要一套能够快速适配并高效运行的基础设施 RLinf 此前已经支持 DreamZero 等世界模型 此次 我们进一步将 NVIDIA Cosmos 3 集成到 RLinf 并结合 SGLang 作为推理后端 打通从模型 SFT 推理服务到仿真评测的完整流程 基于 RLinf 完成 Cosmos3 Nano SFT 训练精度与官方实现对齐 同时显著提升 Cosmos3 仿真评测吞吐 通过增强 SGLang 多 batch 推理及流水线并行评测 相比直接集成 SGLang 实现了 3 33 倍性能提升 本文以 Cosmos3 Nano 集成为例 介绍从模型微调到高效并行评测的全流程集成过程中的关键技术设计 以及 RLinf 如何通过流水化调度进一步提升模型评测效率   查看详细报道  SGLang 官方推送">
         随着具身智能模型不断演进，模型本身的能力只是完整开发链路的一部分。对于一个新的 World Action Model（WAM）而言，从模型接入、训练，到推理和仿真评测，都需要一套能够快速适配并高效运行的基础设施。
-
-      </p>
-    </div>
-  </div>
-</div>
-
-<div class="post-excerpt-container">
-  <div class="post-excerpt">
-    
-    
-    
-
-    
-
-    <div class="post-excerpt-text">
-      <a href="/2026/09/15/tr35-post.html">于超老师入选《麻省理工科技评论》亚太区“35岁以下科技创新35人”</a>
-
-      <div class="post-info">
-  
-
-  
-  
-
-  
-    <span data-tooltip="Originally published on">
-      <i class="icon fa-regular fa-calendar"></i>
-      <span>September 15, 2026</span>
-    </span>
-  
-
-  <!-- 
-    <span data-tooltip="Last updated on">
-      <i class="icon fa-solid fa-clock-rotate-left"></i>
-      <span>September 28, 2026</span>
-    </span>
-   -->
-</div>
-
-
-  
-
-
-
-
-
-
-      
-      
-      <p data-search="于超老师入选 MIT Technology Review Innovators Under 35 Asia Pacific TR35 Asia Pacific  SIGS 报道">
-        于超老师入选 MIT Technology Review Innovators Under 35 Asia Pacific（TR35 Asia Pacific）。
-
-      </p>
-    </div>
-  </div>
-</div>
-
-<div class="post-excerpt-container">
-  <div class="post-excerpt">
-    
-    
-    
-
-    
-
-    <div class="post-excerpt-text">
-      <a href="/2026/09/12/rlinf-anniversary-post.html">RLinf 开源一周年茶话会</a>
-
-      <div class="post-info">
-  
-
-  
-  
-
-  
-    <span data-tooltip="Originally published on">
-      <i class="icon fa-regular fa-calendar"></i>
-      <span>September 12, 2026</span>
-    </span>
-  
-
-  <!-- 
-    <span data-tooltip="Last updated on">
-      <i class="icon fa-solid fa-clock-rotate-left"></i>
-      <span>September 28, 2026</span>
-    </span>
-   -->
-</div>
-
-
-  
-
-
-
-
-
-
-      
-      
-      <p data-search="9 月 12 日 由无问芯穹主办的 RLinf 开源一周年茶话会 在北京圆满举行 本次茶话会以 Connect  amp  Co create 为主题 汇聚了来自高校 头部企业及明星创业公司的技术大咖与开发者 在轻松愉悦的茶歇氛围中 围绕具身智能基础设施与前沿技术展开深度对话 共同回顾 RLinf 开源一年来的进化历程 并展望具身智能从数字世界迈向物理世界的关键路径 无问芯穹 CTO 李伯勋 清华大学深圳国际研究生院助理教授于超 无问芯穹技术副总裁张权路等多位 RLinf 主创团队代表来到活动现场 与开发者们面对面交流 同时 百度智能云主任架构师应茹 摩尔线程首席物理引擎架构师韩浩炜 Qwen 多模态负责人白帅 北京邮电大学副研究员徐大亮等嘉宾 带来了各自在具身智能与 AI 基础设施领域的深度洞察 此外 逐际动力 Flux Engine 项目负责人李寅昊 百度智能云资深工程师房丽颖 华为资深工程师杜婷 华为云 ModelArts 强化学习服务技术专家刘武明 共同就 具身智能技术前沿探讨 展开思想碰撞 查看活动回顾">
-        9 月 12 日，由无问芯穹主办的“RLinf 开源一周年茶话会”在北京圆满举行。本次茶话会以“Connect &amp; Co-create”为主题，汇聚了来自高校、头部企业及明星创业公司的技术大咖与开发者，在轻松愉悦的茶歇氛围中，围绕具身智能基础设施与前沿技术展开深度对话，共同回顾 RLinf 开源一年来的进化历程，并展望具身智能从数字世界迈向物理世界的关键路径。
 
       </p>
     </div>
