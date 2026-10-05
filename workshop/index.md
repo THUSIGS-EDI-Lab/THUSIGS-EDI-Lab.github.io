@@ -20,9 +20,12 @@ nav:
 
 ## IROS 2026 Building Scalable Infrastructure for Robot Learning: From Data Scaling to Real-World Deployment Workshop
 
-*2026.09.27 - 2026.10.01*
+*2026.10.01*
 
-[查看活动详情](https://scale-infra.github.io/iros2026/)
+清华大学于超教授等领域学者共同组织本次 Workshop，徐梦迪、丁琰、光轮和英伟达等受邀分享。
+
+- [活动官网](https://scale-infra.github.io/iros2026/)
+- [活动回顾](https://mp.weixin.qq.com/s/ZVqPDsye7HkpSlylnl1nDA)
 
 ## 具身智能规模化探索论坛 @ 2026 世界机器人大会
 

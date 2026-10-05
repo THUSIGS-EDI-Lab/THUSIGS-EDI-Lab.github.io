@@ -6,4 +6,6 @@ category: invited
 
 于超老师受邀在深圳河套学院 AI Seminar 第 55 期作“Embodied Intelligence Reinforcement Learning Training and Intelligent Infrastructure Exploration”报告。
 
+[活动详情](https://mp.weixin.qq.com/s/4Ab9IPX62LsAPDEwmHT4_w)
+
 ![](/images/courses/hetu-ai-seminar-55.jpg)
