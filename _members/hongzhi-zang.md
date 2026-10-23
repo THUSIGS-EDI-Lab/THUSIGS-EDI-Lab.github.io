@@ -1,6 +1,6 @@
 ---
 name: Hongzhi Zang
-name_cn: 藏宏之
+name_cn: 臧宏之
 image: images/headshots/404.webp
 role: pjhd
 year: 2026

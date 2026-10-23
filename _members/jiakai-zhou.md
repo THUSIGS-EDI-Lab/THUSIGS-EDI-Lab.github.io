@@ -2,7 +2,7 @@
 name: Jiakai Zhou
 name_cn: 周佳锴
 image: images/headshots/404.webp
-role: mjs
+role: ms
 year: 2026
 affiliation: 
 ---
